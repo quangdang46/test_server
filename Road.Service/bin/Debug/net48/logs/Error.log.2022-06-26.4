@@ -1,0 +1,6 @@
+2022-06-26 20:22:41,682 - [17] - ERROR - GamePlayer - Error saving player Khanhlam!
+System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at Game.Server.GameUtils.PlayerRank.SaveToDatabase() in C:\NEWGUN\Source\Game.Server\GameUtils\PlayerRank.cs:line 252
+   at GamePlayer.SaveIntoDatabase() in C:\NEWGUN\Source\Game.Server\GamePlayer.cs:line 4321

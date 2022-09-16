@@ -1,0 +1,3 @@
+2022-06-21 17:00:13,446 - [MAIN] - ERROR - Bussiness.BaseCrossBussiness - GetLuckyStart_Topten_Award_All
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.ActiveBussiness.GetAllLuckyStartToptenAward() in C:\NEWGUN\Source\Bussiness\ActiveBussiness.cs:line 230

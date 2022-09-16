@@ -1,0 +1,248 @@
+2022-07-07 23:49:36,195 - [MAIN] - ERROR - Game.Base.BaseConnector - Connect 20.24.28.243:9202 failed!
+2022-07-07 23:49:36,195 - [16] - ERROR - Game.Server.GameServer - Reconnecting after 5 minutes
+2022-07-07 23:52:41,770 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 171.239.77.26:59431)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 244 Nickname: PhiDe
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-07 23:52:41,802 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 33 00 4D 00 00 00 F4 00 00 00 00   q....3.M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-07 23:52:41,817 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 171.239.77.26:59431)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 244 Nickname: PhiDe
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-07 23:52:41,817 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 33 00 4D 00 00 00 F4 00 00 00 00   q....3.M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-07 23:52:41,880 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 171.239.77.26:59431)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 244 Nickname: PhiDe
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-07 23:52:41,880 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 33 00 4D 00 00 00 F4 00 00 00 00   q....3.M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-07 23:52:41,927 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 171.239.77.26:59431)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 244 Nickname: PhiDe
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-07 23:52:41,927 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 33 00 4D 00 00 00 F4 00 00 00 00   q....3.M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-07 23:52:41,942 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 171.239.77.26:59431)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 244 Nickname: PhiDe
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-07 23:52:41,942 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 33 00 4D 00 00 00 F4 00 00 00 00   q....3.M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-07 23:52:41,989 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 171.239.77.26:59431)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 244 Nickname: PhiDe
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-07 23:52:41,989 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 33 00 4D 00 00 00 F4 00 00 00 00   q....3.M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-07 23:52:42,067 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 171.239.77.26:59431)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 244 Nickname: PhiDe
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-07 23:52:42,067 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 33 00 4D 00 00 00 F4 00 00 00 00   q....3.M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-07 23:52:42,333 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 171.239.77.26:59431)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 244 Nickname: PhiDe
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-07 23:52:42,333 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 33 00 4D 00 00 00 F4 00 00 00 00   q....3.M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-07 23:52:42,380 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 171.239.77.26:59431)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 244 Nickname: PhiDe
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-07 23:52:42,395 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 33 00 4D 00 00 00 F4 00 00 00 00   q....3.M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-07 23:52:42,395 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 171.239.77.26:59431)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 244 Nickname: PhiDe
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-07 23:52:42,395 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 33 00 4D 00 00 00 F4 00 00 00 00   q....3.M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-07 23:52:42,458 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 171.239.77.26:59431)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 244 Nickname: PhiDe
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-07 23:52:42,458 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 33 00 4D 00 00 00 F4 00 00 00 00   q....3.M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-07 23:52:42,505 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 171.239.77.26:59431)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 244 Nickname: PhiDe
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-07 23:52:42,505 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 33 00 4D 00 00 00 F4 00 00 00 00   q....3.M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-07 23:52:42,505 - [33] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 171.239.77.26:59431)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 244 Nickname: PhiDe
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-07 23:52:42,505 - [33] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 33 00 4D 00 00 00 F4 00 00 00 00   q....3.M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-07 23:52:42,552 - [33] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 171.239.77.26:59431)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 244 Nickname: PhiDe
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-07 23:52:42,552 - [33] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 33 00 4D 00 00 00 F4 00 00 00 00   q....3.M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-07 23:52:42,583 - [33] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 171.239.77.26:59431)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 244 Nickname: PhiDe
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-07 23:52:42,583 - [33] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 33 00 4D 00 00 00 F4 00 00 00 00   q....3.M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-07 23:52:42,692 - [33] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 171.239.77.26:59431)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 244 Nickname: PhiDe
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-07 23:52:42,708 - [33] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 33 00 4D 00 00 00 F4 00 00 00 00   q....3.M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-07 23:52:42,817 - [33] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 171.239.77.26:59431)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 244 Nickname: PhiDe
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-07 23:52:42,817 - [33] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 33 00 4D 00 00 00 F4 00 00 00 00   q....3.M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-07 23:52:42,880 - [33] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 171.239.77.26:59431)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 244 Nickname: PhiDe
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-07 23:52:42,880 - [33] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 33 00 4D 00 00 00 F4 00 00 00 00   q....3.M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-07 23:52:42,927 - [33] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 171.239.77.26:59431)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 244 Nickname: PhiDe
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-07 23:52:42,942 - [33] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 33 00 4D 00 00 00 F4 00 00 00 00   q....3.M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-07 23:52:42,942 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 171.239.77.26:59431)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 244 Nickname: PhiDe
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-07 23:52:42,942 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 33 00 4D 00 00 00 F4 00 00 00 00   q....3.M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-07 23:52:42,973 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 171.239.77.26:59431)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 244 Nickname: PhiDe
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-07 23:52:42,973 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 33 00 4D 00 00 00 F4 00 00 00 00   q....3.M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-07 23:52:42,973 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 171.239.77.26:59431)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 244 Nickname: PhiDe
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-07 23:52:42,973 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 33 00 4D 00 00 00 F4 00 00 00 00   q....3.M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-07 23:52:43,020 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 171.239.77.26:59431)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 244 Nickname: PhiDe
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-07 23:52:43,020 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 33 00 4D 00 00 00 F4 00 00 00 00   q....3.M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-07 23:52:43,067 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 171.239.77.26:59431)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 244 Nickname: PhiDe
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-07 23:52:43,067 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 33 00 4D 00 00 00 F4 00 00 00 00   q....3.M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-07 23:52:43,114 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 171.239.77.26:59431)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 244 Nickname: PhiDe
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-07 23:52:43,114 - [36] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 33 00 4D 00 00 00 F4 00 00 00 00   q....3.M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-07 23:52:43,114 - [33] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 171.239.77.26:59431)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 244 Nickname: PhiDe
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-07 23:52:43,114 - [33] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 33 00 4D 00 00 00 F4 00 00 00 00   q....3.M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-07 23:52:43,161 - [33] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 171.239.77.26:59431)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 244 Nickname: PhiDe
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-07 23:52:43,161 - [33] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 33 00 4D 00 00 00 F4 00 00 00 00   q....3.M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-07 23:53:22,183 - [49] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Xiath -> to State 2
+2022-07-07 23:54:31,786 - [52] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Xiath -> to State 2
+2022-07-07 23:54:36,203 - [16] - ERROR - Game.Server.GameServer - Reconnecting after :14 try

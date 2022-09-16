@@ -1,0 +1,250 @@
+2022-06-26 02:25:38,209 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+2022-06-26 02:25:38,240 - [MAIN] - INFO  - Fighting.Server.FightServer - Recompile Scripts: True
+2022-06-26 02:25:38,303 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+2022-06-26 02:25:38,303 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+2022-06-26 02:25:38,303 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+2022-06-26 02:25:38,303 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+2022-06-26 02:25:38,506 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+2022-06-26 02:25:38,647 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+2022-06-26 02:25:38,647 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+2022-06-26 02:25:38,887 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+2022-06-26 02:25:38,887 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+2022-06-26 02:25:38,903 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+2022-06-26 02:25:38,918 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+2022-06-26 02:25:38,949 - [MAIN] - INFO  - Fighting.Server.FightServer - WindMgr Init: True
+2022-06-26 02:25:38,965 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+2022-06-26 02:25:38,981 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+2022-06-26 02:25:38,981 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+2022-06-26 02:25:38,996 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+2022-06-26 02:25:41,309 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 10.1.0.4:49850
+2022-06-26 02:25:51,481 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 10.1.0.4:49852
+2022-06-26 02:34:41,672 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -134336 ms!
+2022-06-26 02:34:41,687 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -133296 ms!
+2022-06-26 02:34:41,687 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -132256 ms!
+2022-06-26 02:34:41,703 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -131216 ms!
+2022-06-26 02:34:41,719 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -130176 ms!
+2022-06-26 02:34:41,734 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -129136 ms!
+2022-06-26 02:34:41,734 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -128096 ms!
+2022-06-26 02:34:41,734 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -127056 ms!
+2022-06-26 02:34:41,734 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -126016 ms!
+2022-06-26 02:34:41,750 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -124976 ms!
+2022-06-26 02:34:41,750 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -123936 ms!
+2022-06-26 02:34:41,750 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -122896 ms!
+2022-06-26 02:34:41,750 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -121856 ms!
+2022-06-26 02:34:41,750 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -120816 ms!
+2022-06-26 02:34:41,750 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -119776 ms!
+2022-06-26 02:34:41,750 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -118736 ms!
+2022-06-26 02:34:41,750 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -117696 ms!
+2022-06-26 02:34:41,766 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -116656 ms!
+2022-06-26 02:34:41,766 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -115616 ms!
+2022-06-26 02:34:41,766 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -114576 ms!
+2022-06-26 02:34:41,781 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -113536 ms!
+2022-06-26 02:34:41,797 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -112496 ms!
+2022-06-26 02:34:41,812 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -111456 ms!
+2022-06-26 02:34:41,812 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -110416 ms!
+2022-06-26 02:34:41,812 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -109376 ms!
+2022-06-26 02:34:41,812 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -108336 ms!
+2022-06-26 02:34:41,812 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -107296 ms!
+2022-06-26 02:34:41,828 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -106256 ms!
+2022-06-26 02:34:41,828 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -105216 ms!
+2022-06-26 02:34:41,828 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -104176 ms!
+2022-06-26 02:34:41,844 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -103136 ms!
+2022-06-26 02:34:41,844 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -102096 ms!
+2022-06-26 02:34:41,844 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -101056 ms!
+2022-06-26 02:34:41,844 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -100016 ms!
+2022-06-26 02:34:41,844 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -98976 ms!
+2022-06-26 02:34:41,859 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -97936 ms!
+2022-06-26 02:34:41,859 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -96896 ms!
+2022-06-26 02:34:41,859 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -95856 ms!
+2022-06-26 02:34:41,859 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -94816 ms!
+2022-06-26 02:34:41,859 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -93776 ms!
+2022-06-26 02:34:41,875 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -92736 ms!
+2022-06-26 02:34:41,875 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -91696 ms!
+2022-06-26 02:34:41,875 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -90656 ms!
+2022-06-26 02:34:41,875 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -89616 ms!
+2022-06-26 02:34:41,875 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -88576 ms!
+2022-06-26 02:34:41,875 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -87536 ms!
+2022-06-26 02:34:41,891 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -86496 ms!
+2022-06-26 02:34:41,891 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -85456 ms!
+2022-06-26 02:34:41,891 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -84416 ms!
+2022-06-26 02:34:41,891 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -83376 ms!
+2022-06-26 02:34:41,891 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -82336 ms!
+2022-06-26 02:34:41,891 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -81296 ms!
+2022-06-26 02:34:41,906 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -80256 ms!
+2022-06-26 02:34:41,906 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -79216 ms!
+2022-06-26 02:34:41,906 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -78176 ms!
+2022-06-26 02:34:41,906 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -77136 ms!
+2022-06-26 02:34:41,906 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -76096 ms!
+2022-06-26 02:34:41,906 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -75056 ms!
+2022-06-26 02:34:41,906 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -74016 ms!
+2022-06-26 02:34:41,906 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -72976 ms!
+2022-06-26 02:34:41,922 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -71936 ms!
+2022-06-26 02:34:41,922 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -70896 ms!
+2022-06-26 02:34:41,922 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -69856 ms!
+2022-06-26 02:34:41,922 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -68816 ms!
+2022-06-26 02:34:41,922 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -67776 ms!
+2022-06-26 02:34:41,922 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -66736 ms!
+2022-06-26 02:34:41,922 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -65696 ms!
+2022-06-26 02:34:41,937 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -64656 ms!
+2022-06-26 02:34:41,937 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -63616 ms!
+2022-06-26 02:34:41,937 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -62576 ms!
+2022-06-26 02:34:41,937 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -61536 ms!
+2022-06-26 02:34:41,937 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -60496 ms!
+2022-06-26 02:34:41,937 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -59456 ms!
+2022-06-26 02:34:41,937 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -58416 ms!
+2022-06-26 02:34:41,937 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -57376 ms!
+2022-06-26 02:34:41,937 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -56336 ms!
+2022-06-26 02:34:41,937 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -55296 ms!
+2022-06-26 02:34:41,953 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -54256 ms!
+2022-06-26 02:34:41,953 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -53216 ms!
+2022-06-26 02:34:41,953 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -52176 ms!
+2022-06-26 02:34:41,953 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -51136 ms!
+2022-06-26 02:34:41,953 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -50096 ms!
+2022-06-26 02:34:41,953 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -49056 ms!
+2022-06-26 02:34:41,953 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -48016 ms!
+2022-06-26 02:34:41,953 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -46976 ms!
+2022-06-26 02:34:41,953 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -45936 ms!
+2022-06-26 02:34:41,953 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -44896 ms!
+2022-06-26 02:34:41,953 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -43856 ms!
+2022-06-26 02:34:41,953 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -42816 ms!
+2022-06-26 02:34:41,953 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -41776 ms!
+2022-06-26 02:34:41,953 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -40736 ms!
+2022-06-26 02:34:41,969 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -39696 ms!
+2022-06-26 02:34:41,969 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -38656 ms!
+2022-06-26 02:34:41,969 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -37616 ms!
+2022-06-26 02:34:41,969 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -36576 ms!
+2022-06-26 02:34:41,969 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -35536 ms!
+2022-06-26 02:34:41,969 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -34496 ms!
+2022-06-26 02:34:41,969 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -33456 ms!
+2022-06-26 02:34:41,969 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -32416 ms!
+2022-06-26 02:34:41,969 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -31376 ms!
+2022-06-26 02:34:41,969 - [5] - WARN  - Fighting.Serv2022-06-26 02:39:29,293 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+2022-06-26 02:39:29,318 - [MAIN] - INFO  - Fighting.Server.FightServer - Recompile Scripts: True
+2022-06-26 02:39:29,365 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+2022-06-26 02:39:29,365 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+2022-06-26 02:39:29,365 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+2022-06-26 02:39:29,365 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+2022-06-26 02:39:29,596 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+2022-06-26 02:39:29,783 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+2022-06-26 02:39:29,799 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+2022-06-26 02:39:30,028 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+2022-06-26 02:39:30,028 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+2022-06-26 02:39:30,060 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+2022-06-26 02:39:30,075 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+2022-06-26 02:39:30,122 - [MAIN] - INFO  - Fighting.Server.FightServer - WindMgr Init: True
+2022-06-26 02:39:30,122 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+2022-06-26 02:39:30,138 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+2022-06-26 02:39:30,153 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+2022-06-26 02:39:30,231 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+2022-06-26 02:39:32,435 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 10.1.0.4:49932
+2022-06-26 02:39:42,013 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 10.1.0.4:49934
+2022-06-26 02:42:14,074 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -34806 ms!
+2022-06-26 02:42:20,255 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -39912 ms!
+2022-06-26 02:42:20,255 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -38872 ms!
+2022-06-26 02:42:20,255 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -37832 ms!
+2022-06-26 02:42:20,255 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -36792 ms!
+2022-06-26 02:42:20,255 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -35752 ms!
+2022-06-26 02:42:20,255 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -34712 ms!
+2022-06-26 02:42:20,255 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -33672 ms!
+2022-06-26 02:42:20,255 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -32632 ms!
+2022-06-26 02:42:20,255 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -31592 ms!
+2022-06-26 02:42:20,255 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -30552 ms!
+2022-06-26 02:42:20,270 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -29512 ms!
+2022-06-26 02:42:20,270 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -28472 ms!
+2022-06-26 02:42:20,270 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -27432 ms!
+2022-06-26 02:42:20,270 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -26392 ms!
+2022-06-26 02:42:20,270 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -25352 ms!
+2022-06-26 02:42:20,270 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -24312 ms!
+2022-06-26 02:42:20,270 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -23272 ms!
+2022-06-26 02:42:20,270 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -22232 ms!
+2022-06-26 02:42:20,270 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -21192 ms!
+2022-06-26 02:42:20,270 - [5] - WARN  - Fighting.Server2022-06-26 02:55:58,522 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+2022-06-26 02:55:58,538 - [MAIN] - INFO  - Fighting.Server.FightServer - Recompile Scripts: True
+2022-06-26 02:55:58,601 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+2022-06-26 02:55:58,616 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+2022-06-26 02:55:58,616 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+2022-06-26 02:55:58,616 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+2022-06-26 02:55:58,783 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+2022-06-26 02:55:58,955 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+2022-06-26 02:55:58,971 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+2022-06-26 02:55:59,185 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+2022-06-26 02:55:59,201 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+2022-06-26 02:55:59,217 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+2022-06-26 02:55:59,217 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+2022-06-26 02:55:59,248 - [MAIN] - INFO  - Fighting.Server.FightServer - WindMgr Init: True
+2022-06-26 02:55:59,264 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+2022-06-26 02:55:59,264 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+2022-06-26 02:55:59,279 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+2022-06-26 02:55:59,310 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+2022-06-26 02:56:01,560 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 10.1.0.4:50030
+2022-06-26 02:56:11,482 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 10.1.0.4:50032
+2022-06-26 03:01:17,437 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -5955 ms!
+2022-06-26 03:01:17,437 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -4915 ms!
+2022-06-26 03:01:17,437 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -3875 ms!
+2022-06-26 03:01:17,437 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -2835 ms!
+2022-06-26 03:01:17,452 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -1795 ms!
+2022-06-26 03:01:38,896 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -6596 ms!
+2022-06-26 03:01:38,896 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -5556 ms!
+2022-06-26 03:01:38,896 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -4516 ms!
+2022-06-26 03:01:38,911 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -3476 ms!
+2022-06-26 03:01:38,911 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -2436 ms!
+2022-06-26 03:01:38,911 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -1396 ms!
+2022-06-26 03:04:04,706 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -60657 ms!
+2022-06-26 03:04:04,720 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -59617 ms!
+2022-06-26 03:04:04,721 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -58578 ms!
+2022-06-26 03:04:04,721 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -57538 ms!
+2022-06-26 03:04:04,742 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -56498 ms!
+2022-06-26 03:04:04,742 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -55458 ms!
+2022-06-26 03:04:04,758 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -54418 ms!
+2022-06-26 03:04:04,759 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -53378 ms!
+2022-06-26 03:04:04,807 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -52338 ms!
+2022-06-26 03:04:04,808 - [5] - WARN  - Fighting.Server.Games.Game2022-06-26 20:29:49,116 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+2022-06-26 20:29:49,135 - [MAIN] - INFO  - Fighting.Server.FightServer - Recompile Scripts: True
+2022-06-26 20:29:49,207 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+2022-06-26 20:29:49,208 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+2022-06-26 20:29:49,209 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+2022-06-26 20:29:49,209 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+2022-06-26 20:29:49,350 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+2022-06-26 20:29:49,455 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+2022-06-26 20:29:49,462 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+2022-06-26 20:29:49,637 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+2022-06-26 20:29:49,644 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+2022-06-26 20:29:49,653 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+2022-06-26 20:29:49,666 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+2022-06-26 20:29:49,683 - [MAIN] - INFO  - Fighting.Server.FightServer - WindMgr Init: True
+2022-06-26 20:29:49,689 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+2022-06-26 20:29:49,693 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+2022-06-26 20:29:49,698 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+2022-06-26 20:29:49,711 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+2022-06-26 20:29:58,235 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 10.1.0.4:56357
+2022-06-26 20:29:58,974 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 10.1.0.4:56359
+2022-06-26 20:47:37,545 - [7] - ERROR - Fighting.Server.ServerClient - Room already exists:301.
+2022-06-26 20:48:38,440 - [16] - ERROR - Fighting.Server.ServerClient - Room already exists:146.
+2022-06-26 20:51:06,112 - [14] - ERROR - Fighting.Server.ServerClient - Room already exists:13.
+2022-06-26 20:55:14,856 - [23] - ERROR - Fighting.Server.ServerClient - Room already exists:160.
+2022-06-26 20:56:39,656 - [7] - ERROR - Fighting.Server.ServerClient - Room already exists:472.
+2022-06-26 21:10:20,492 - [16] - ERROR - Fighting.Server.ServerClient - Room already exists:412.
+2022-06-26 21:12:16,191 - [7] - ERROR - Fighting.Server.ServerClient - Room already exists:477.
+2022-06-26 21:17:26,745 - [21] - ERROR - Fighting.Server.ServerClient - Room already exists:953.
+2022-06-26 21:18:38,201 - [16] - ERROR - Fighting.Server.ServerClient - Room already exists:875.
+2022-06-26 21:20:18,918 - [3] - ERROR - Fighting.Server.ServerClient - Room already exists:856.
+2022-06-26 21:20:33,135 - [3] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.PVPGame.RemovePlayer(IGamePlayer gp, Boolean IsKick) in C:\NEWGUN\Source\Game.Logic\PVPGame.cs:line 663
+   at Fighting.Server.Games.BattleGame.RemovePlayer(IGamePlayer gp, Boolean IsKick) in C:\NEWGUN\Source\Fighting.Server\Games\BattleGame.cs:line 54
+   at Fighting.Server.ServerClient.HandlePlayerExit(GSPacketIn pkg) in C:\NEWGUN\Source\Fighting.Server\ServerClient.cs:line 98
+   at Fighting.Server.ServerClient.OnRecvPacket(GSPacketIn pkg) in C:\NEWGUN\Source\Fighting.Server\ServerClient.cs:line 75
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in C:\NEWGUN\Source\Game.Base\Packets\StreamProcessor.cs:line 262
+2022-06-26 21:34:15,254 - [23] - ERROR - Fighting.Server.ServerClient - Room already exists:856.
+2022-06-26 21:35:27,864 - [10] - ERROR - Fighting.Server.ServerClient - Room already exists:778.
+2022-06-26 22:11:10,399 - [10] - ERROR - Fighting.Server.ServerClient - Room already exists:54.
+2022-06-26 22:15:56,832 - [15] - ERROR - Fighting.Server.ServerClient - Room already exists:811.
+2022-06-26 22:40:55,046 - [17] - ERROR - Fighting.Server.ServerClient - Room already exists:546.
+2022-06-26 22:50:12,799 - [12] - ERROR - Fighting.Server.ServerClient - Room already exists:666.
+2022-06-26 22:52:00,540 - [13] - ERROR - Fighting.Server.ServerClient - Room already exists:323.
+2022-06-26 22:58:11,473 - [17] - ERROR - Fighting.Server.ServerClient - Room already exists:683.
+2022-06-26 23:09:14,635 - [3] - ERROR - Fighting.Server.ServerClient - Room already exists:776.
+2022-06-26 23:10:07,660 - [11] - ERROR - Fighting.Server.ServerClient - Room already exists:469.
+2022-06-26 23:11:44,394 - [12] - ERROR - Fighting.Server.ServerClient - Room already exists:105.
+2022-06-26 23:34:45,941 - [20] - ERROR - Fighting.Server.ServerClient - Room already exists:561.
+2022-06-26 23:45:00,828 - [3] - ERROR - Fighting.Server.ServerClient - Room already exists:666.

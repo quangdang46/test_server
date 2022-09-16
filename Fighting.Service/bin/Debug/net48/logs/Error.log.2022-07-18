@@ -1,0 +1,10 @@
+2022-07-17 08:34:08,422 - [5] - ERROR - Fighting.Server.ServerClient - SendPlayerConsortiaFight players.Count 3
+2022-07-17 13:31:32,040 - [25] - ERROR - Fighting.Server.ServerClient - Room already exists:280.
+2022-07-17 13:49:38,081 - [97] - ERROR - Fighting.Server.ServerClient - Room already exists:92.
+2022-07-17 14:02:09,551 - [55] - ERROR - Fighting.Server.ServerClient - Room already exists:92.
+2022-07-17 17:52:42,486 - [14] - ERROR - Fighting.Server.ServerClient - Room already exists:380.
+2022-07-17 19:50:09,208 - [41] - ERROR - Fighting.Server.ServerClient - Room already exists:59.
+2022-07-17 20:05:31,733 - [100] - ERROR - Fighting.Server.ServerClient - Room already exists:860.
+2022-07-17 20:16:49,586 - [85] - ERROR - Fighting.Server.ServerClient - Room already exists:405.
+2022-07-17 20:58:29,009 - [18] - ERROR - Fighting.Server.ServerClient - Room already exists:670.
+2022-07-17 23:04:19,379 - [45] - ERROR - Fighting.Server.ServerClient - Room already exists:672.

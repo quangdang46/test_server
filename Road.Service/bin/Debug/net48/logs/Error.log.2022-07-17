@@ -1,0 +1,905 @@
+2022-07-17 22:59:57,658 - [147] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 0
+2022-07-17 22:59:57,658 - [147] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 0
+2022-07-17 23:00:02,115 - [92] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - H?iLâm -> to State 2
+2022-07-17 23:00:06,896 - [175] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - dlwlrma -> to State 1
+2022-07-17 23:00:17,531 - [32] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - THTrueMilk -> to State 1
+2022-07-17 23:00:22,743 - [30] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - THTrueMilk -> to State 0
+2022-07-17 23:00:23,107 - [30] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ?ACE?Ð???????¢ -> to State 2
+2022-07-17 23:00:30,560 - [30] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312400
+2022-07-17 23:00:53,477 - [92] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Engulfing -> to State 1
+2022-07-17 23:00:54,946 - [118] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - adidas -> to State 1
+2022-07-17 23:00:56,431 - [30] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Nike -> to State 1
+2022-07-17 23:00:57,851 - [30] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Engulfing -> to State 0
+2022-07-17 23:00:57,851 - [30] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - adidas -> to State 0
+2022-07-17 23:00:57,898 - [175] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - MinhChou -> to State 2
+2022-07-17 23:00:57,898 - [175] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Nike -> to State 0
+2022-07-17 23:01:26,815 - [175] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - THTrueMilk -> to State 1
+2022-07-17 23:01:31,159 - [32] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - THTrueMilk -> to State 0
+2022-07-17 23:01:31,472 - [30] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ?ACE?Ð???????¢ -> to State 2
+2022-07-17 23:01:47,665 - [147] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - dlwlrma -> to State 0
+2022-07-17 23:01:47,665 - [175] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - BLVAnhNg?c -> to State 2
+2022-07-17 23:01:51,712 - [30] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 1
+2022-07-17 23:01:52,697 - [92] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 1
+2022-07-17 23:01:58,882 - [32] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 0
+2022-07-17 23:01:59,101 - [92] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - G?uMèo -> to State 2
+2022-07-17 23:02:00,835 - [28] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 0
+2022-07-17 23:02:36,984 - [180] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Baka -> to State 1
+2022-07-17 23:03:32,055 - [92] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - H?iLâm -> to State 2
+2022-07-17 23:03:38,362 - [147] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - dlwlrma -> to State 1
+2022-07-17 23:03:45,795 - [30] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Kramelt -> to State 1
+2022-07-17 23:03:52,357 - [175] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - MissCaiDe -> to State 1
+2022-07-17 23:03:55,310 - [175] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Tuki -> to State 1
+2022-07-17 23:04:06,742 - [113] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - KháP?nk -> to State 2
+2022-07-17 23:04:07,039 - [55] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - BLVAnhNg?c -> to State 2
+2022-07-17 23:04:07,039 - [55] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - dlwlrma -> to State 0
+2022-07-17 23:04:07,509 - [61] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - MissCaiDe -> to State 0
+2022-07-17 23:04:07,524 - [61] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - SadTh?DaTìnk -> to State 1
+2022-07-17 23:04:07,977 - [113] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Kramelt -> to State 0
+2022-07-17 23:04:09,649 - [61] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Tuki -> to State 0
+2022-07-17 23:04:11,977 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - GumayuDung -> to State 2
+2022-07-17 23:04:12,102 - [113] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Baka -> to State 0
+2022-07-17 23:04:13,071 - [72] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - SadTh?DaTìnk -> to State 0
+2022-07-17 23:04:28,523 - [175] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 1
+2022-07-17 23:04:33,760 - [61] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 1
+2022-07-17 23:04:40,307 - [113] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - G?uMèo -> to State 2
+2022-07-17 23:04:40,526 - [175] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 0
+2022-07-17 23:04:40,542 - [113] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 0
+2022-07-17 23:04:44,241 - [179] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Monn -> to State 1
+2022-07-17 23:04:47,303 - [72] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - NX -> to State 0
+2022-07-17 23:04:48,335 - [72] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Wendy -> to State 2
+2022-07-17 23:05:13,241 - [49] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - H?iLâm -> to State 1
+2022-07-17 23:05:13,538 - [94] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - T? -> to State 1
+2022-07-17 23:05:15,319 - [49] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Binnko -> to State 1
+2022-07-17 23:05:20,882 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - H?iLâm -> to State 0
+2022-07-17 23:05:21,398 - [104] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - NX -> to State 2
+2022-07-17 23:05:21,491 - [104] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Binnko -> to State 0
+2022-07-17 23:05:22,398 - [42] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - T? -> to State 0
+2022-07-17 23:05:35,985 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Baka -> to State 1
+2022-07-17 23:05:39,001 - [104] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - SadTh?DaTìnk -> to State 1
+2022-07-17 23:05:39,829 - [94] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - dlwlrma -> to State 1
+2022-07-17 23:05:45,168 - [94] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 42.116.162.71:41252)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 1213 Nickname: TuHú
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-17 23:05:45,168 - [94] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 00 00 4D 00 00 04 BD 00 00 00 00   q......M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-17 23:05:45,168 - [94] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 42.116.162.71:41252)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 1213 Nickname: TuHú
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-17 23:05:45,168 - [94] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 00 00 4D 00 00 04 BD 00 00 00 00   q......M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-17 23:05:45,168 - [94] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 42.116.162.71:41252)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 1213 Nickname: TuHú
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-17 23:05:45,168 - [94] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 00 00 4D 00 00 04 BD 00 00 00 00   q......M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-17 23:05:45,168 - [94] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 42.116.162.71:41252)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 1213 Nickname: TuHú
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-17 23:05:45,168 - [94] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 00 00 4D 00 00 04 BD 00 00 00 00   q......M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-17 23:05:45,168 - [94] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 42.116.162.71:41252)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 1213 Nickname: TuHú
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-17 23:05:45,168 - [94] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 00 00 4D 00 00 04 BD 00 00 00 00   q......M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-17 23:05:45,168 - [94] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 42.116.162.71:41252)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 1213 Nickname: TuHú
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-17 23:05:45,168 - [94] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 00 00 4D 00 00 04 BD 00 00 00 00   q......M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-17 23:05:45,168 - [94] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 42.116.162.71:41252)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 1213 Nickname: TuHú
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-17 23:05:45,168 - [94] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 00 00 4D 00 00 04 BD 00 00 00 00   q......M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-17 23:05:45,168 - [94] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 42.116.162.71:41252)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 1213 Nickname: TuHú
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-17 23:05:45,168 - [94] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 00 00 4D 00 00 04 BD 00 00 00 00   q......M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-17 23:05:45,168 - [94] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 42.116.162.71:41252)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 1213 Nickname: TuHú
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-17 23:05:45,184 - [94] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 00 00 4D 00 00 04 BD 00 00 00 00   q......M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-17 23:05:45,184 - [94] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 42.116.162.71:41252)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 1213 Nickname: TuHú
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-17 23:05:45,184 - [94] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 00 00 4D 00 00 04 BD 00 00 00 00   q......M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-17 23:05:45,184 - [94] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 42.116.162.71:41252)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 1213 Nickname: TuHú
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-17 23:05:45,184 - [94] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 00 00 4D 00 00 04 BD 00 00 00 00   q......M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-17 23:05:45,184 - [94] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.ItemOverdueHandler  client: 42.116.162.71:41252)
+System.NotSupportedException: Did not support this type bag: 255 PlayerID: 1213 Nickname: TuHú
+   at GamePlayer.GetInventory(eBageType bageType) in C:\NEWGUN\Source Server\Game.Server\GamePlayer.cs:line 2730
+   at Game.Server.Packets.Client.ItemOverdueHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\ItemOverdueHandler.cs:line 18
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-17 23:05:45,184 - [94] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 06 00 00 4D 00 00 04 BD 00 00 00 00   q......M........
+0010: 00 00 00 00 FF FF FF FF FF                        .........       
+
+2022-07-17 23:05:53,168 - [104] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Baka -> to State 0
+2022-07-17 23:06:02,523 - [49] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Baka -> to State 1
+2022-07-17 23:06:07,055 - [104] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - BLVAnhNg?c -> to State 2
+2022-07-17 23:06:07,071 - [104] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - dlwlrma -> to State 0
+2022-07-17 23:06:09,587 - [110] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312400
+2022-07-17 23:06:13,243 - [42] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - GumayuDung -> to State 2
+2022-07-17 23:06:13,259 - [42] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - SadTh?DaTìnk -> to State 0
+2022-07-17 23:06:13,274 - [42] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Baka -> to State 0
+2022-07-17 23:06:22,518 - [49] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Wendy -> to State 2
+2022-07-17 23:06:28,759 - [104] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 1
+2022-07-17 23:06:29,650 - [110] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 1
+2022-07-17 23:06:31,916 - [42] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - MissCaiDe -> to State 1
+2022-07-17 23:06:32,478 - [42] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 0
+2022-07-17 23:06:32,494 - [42] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - G?uMèo -> to State 2
+2022-07-17 23:06:33,416 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Tuki -> to State 1
+2022-07-17 23:06:33,681 - [94] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Kramelt -> to State 1
+2022-07-17 23:06:34,603 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 0
+2022-07-17 23:06:36,963 - [104] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - KháP?nk -> to State 2
+2022-07-17 23:06:37,088 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - MissCaiDe -> to State 0
+2022-07-17 23:06:37,088 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Kramelt -> to State 0
+2022-07-17 23:06:39,197 - [104] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Tuki -> to State 0
+2022-07-17 23:06:50,157 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - THTrueMilk -> to State 1
+2022-07-17 23:06:53,516 - [42] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - THTrueMilk -> to State 0
+2022-07-17 23:06:53,922 - [110] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ?ACE?Ð???????¢ -> to State 2
+2022-07-17 23:07:09,422 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - SadTh?DaTìnk -> to State 1
+2022-07-17 23:07:10,766 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Baka -> to State 1
+2022-07-17 23:07:13,797 - [104] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Baka -> to State 0
+2022-07-17 23:07:21,912 - [110] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Baka -> to State 1
+2022-07-17 23:07:22,866 - [104] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - MinhChou -> to State 1
+2022-07-17 23:07:23,319 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Nike -> to State 1
+2022-07-17 23:07:24,100 - [49] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - H?iLâm -> to State 1
+2022-07-17 23:07:24,100 - [49] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - GumayuDung -> to State 1
+2022-07-17 23:07:24,600 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Binnko -> to State 1
+2022-07-17 23:07:24,694 - [170] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - adidas -> to State 1
+2022-07-17 23:07:24,928 - [170] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - T? -> to State 1
+2022-07-17 23:07:27,991 - [110] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - GumayuDung -> to State 0
+2022-07-17 23:07:28,069 - [170] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Baka -> to State 0
+2022-07-17 23:07:28,210 - [170] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - SadTh?DaTìnk -> to State 2
+2022-07-17 23:07:50,729 - [110] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - H?iLâm -> to State 0
+2022-07-17 23:07:50,854 - [170] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Binnko -> to State 0
+2022-07-17 23:07:51,089 - [49] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - T? -> to State 0
+2022-07-17 23:07:52,448 - [42] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - NX -> to State 2
+2022-07-17 23:07:58,011 - [110] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Engulfing -> to State 2
+2022-07-17 23:07:58,011 - [110] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - adidas -> to State 0
+2022-07-17 23:07:58,105 - [170] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Nike -> to State 0
+2022-07-17 23:07:58,620 - [110] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - MinhChou -> to State 0
+2022-07-17 23:08:10,056 - [110] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - THTrueMilk -> to State 1
+2022-07-17 23:08:12,275 - [104] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - THTrueMilk -> to State 0
+2022-07-17 23:08:12,853 - [170] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ?ACE?Ð???????¢ -> to State 2
+2022-07-17 23:08:45,578 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ThíchAnXôi -> to State 1
+2022-07-17 23:08:49,781 - [113] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - dlwlrma -> to State 1
+2022-07-17 23:08:51,188 - [104] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ThíchAnXôi -> to State 0
+2022-07-17 23:08:51,188 - [179] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 2
+2022-07-17 23:09:22,045 - [55] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - BLVAnhNg?c -> to State 2
+2022-07-17 23:09:22,076 - [55] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - dlwlrma -> to State 0
+2022-07-17 23:09:42,028 - [72] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Binnko -> to State 1
+2022-07-17 23:09:42,345 - [72] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - T? -> to State 1
+2022-07-17 23:09:44,752 - [104] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - H?iLâm -> to State 1
+2022-07-17 23:09:46,927 - [179] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - H?iLâm -> to State 0
+2022-07-17 23:09:47,146 - [55] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Binnko -> to State 0
+2022-07-17 23:09:47,208 - [55] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - T? -> to State 0
+2022-07-17 23:09:47,318 - [42] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - NX -> to State 2
+2022-07-17 23:09:55,115 - [49] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - KháP?nk -> to State 1
+2022-07-17 23:09:56,086 - [72] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Kramelt -> to State 1
+2022-07-17 23:09:58,191 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Tuki -> to State 1
+2022-07-17 23:10:00,706 - [49] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - MissCaiDe -> to State 2
+2022-07-17 23:10:00,816 - [55] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Tuki -> to State 0
+2022-07-17 23:10:00,956 - [170] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - KháP?nk -> to State 0
+2022-07-17 23:10:01,253 - [55] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Kramelt -> to State 0
+2022-07-17 23:10:08,730 - [170] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Monn -> to State 1
+2022-07-17 23:10:17,934 - [55] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ThíchAnXôi -> to State 1
+2022-07-17 23:10:18,325 - [170] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 1
+2022-07-17 23:10:20,216 - [113] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ThíchAnXôi -> to State 0
+2022-07-17 23:10:20,216 - [110] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 2
+2022-07-17 23:10:20,856 - [104] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Wendy -> to State 2
+2022-07-17 23:10:21,684 - [104] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Monn -> to State 0
+2022-07-17 23:10:23,239 - [104] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 0
+2022-07-17 23:10:42,794 - [113] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Hines -> to State 2
+2022-07-17 23:10:44,435 - [55] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312400
+2022-07-17 23:11:43,619 - [170] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ThíchAnXôi -> to State 1
+2022-07-17 23:11:48,625 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ThíchAnXôi -> to State 0
+2022-07-17 23:11:48,640 - [110] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 2
+2022-07-17 23:12:16,054 - [110] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - dlwlrma -> to State 1
+2022-07-17 23:12:21,891 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - H?iLâm -> to State 1
+2022-07-17 23:12:22,917 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Binnko -> to State 1
+2022-07-17 23:12:24,167 - [110] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - T? -> to State 1
+2022-07-17 23:12:24,355 - [113] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - THTrueMilk -> to State 1
+2022-07-17 23:12:26,042 - [113] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Monn -> to State 1
+2022-07-17 23:12:27,089 - [104] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 1
+2022-07-17 23:12:28,120 - [170] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - NX -> to State 2
+2022-07-17 23:12:28,136 - [49] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - H?iLâm -> to State 0
+2022-07-17 23:12:28,245 - [170] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Binnko -> to State 0
+2022-07-17 23:12:28,324 - [113] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - T? -> to State 0
+2022-07-17 23:12:29,511 - [113] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - SadTh?DaTìnk -> to State 1
+2022-07-17 23:12:30,370 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Monn -> to State 0
+2022-07-17 23:12:30,386 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Wendy -> to State 2
+2022-07-17 23:12:30,636 - [49] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 0
+2022-07-17 23:12:31,449 - [170] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312400
+2022-07-17 23:12:32,995 - [104] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - SadTh?DaTìnk -> to State 0
+2022-07-17 23:12:38,917 - [180] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - SadTh?DaTìnk -> to State 1
+2022-07-17 23:12:40,464 - [49] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Baka -> to State 1
+2022-07-17 23:12:41,621 - [180] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 1
+2022-07-17 23:12:47,053 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - BLVAnhNg?c -> to State 2
+2022-07-17 23:12:47,085 - [180] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - dlwlrma -> to State 0
+2022-07-17 23:12:47,335 - [180] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - GumayuDung -> to State 2
+2022-07-17 23:12:47,413 - [104] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Baka -> to State 0
+2022-07-17 23:12:48,678 - [104] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 0
+2022-07-17 23:12:48,756 - [104] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - SadTh?DaTìnk -> to State 0
+2022-07-17 23:13:34,155 - [104] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Engulfing -> to State 1
+2022-07-17 23:13:37,167 - [49] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ThíchAnXôi -> to State 1
+2022-07-17 23:13:37,527 - [57] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - KháP?nk -> to State 1
+2022-07-17 23:13:38,199 - [94] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Kramelt -> to State 1
+2022-07-17 23:13:39,574 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - THTrueMilk -> to State 0
+2022-07-17 23:13:39,699 - [180] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ?ACE?Ð???????¢ -> to State 2
+2022-07-17 23:13:39,890 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Engulfing -> to State 0
+2022-07-17 23:13:40,279 - [49] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ThíchAnXôi -> to State 0
+2022-07-17 23:13:53,143 - [57] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Tuki -> to State 1
+2022-07-17 23:14:10,365 - [104] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - KháP?nk -> to State 0
+2022-07-17 23:14:11,162 - [49] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - dlwlrma -> to State 1
+2022-07-17 23:14:12,365 - [180] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Kramelt -> to State 0
+2022-07-17 23:14:18,099 - [57] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - MissCaiDe -> to State 2
+2022-07-17 23:14:20,106 - [180] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Tuki -> to State 0
+2022-07-17 23:14:36,166 - [32] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Sugar Baby -> to State 1
+2022-07-17 23:14:38,619 - [49] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Baka -> to State 1
+2022-07-17 23:14:38,634 - [94] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Bbi?Cute -> to State 2
+2022-07-17 23:14:38,634 - [94] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Sugar Baby -> to State 0
+2022-07-17 23:14:39,322 - [57] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - SadTh?DaTìnk -> to State 1
+2022-07-17 23:14:42,056 - [180] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - BLVAnhNg?c -> to State 2
+2022-07-17 23:14:42,072 - [180] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - dlwlrma -> to State 0
+2022-07-17 23:14:42,369 - [49] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 1
+2022-07-17 23:14:48,248 - [49] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - GumayuDung -> to State 2
+2022-07-17 23:14:48,295 - [180] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Baka -> to State 0
+2022-07-17 23:14:48,342 - [94] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - SadTh?DaTìnk -> to State 0
+2022-07-17 23:14:48,717 - [180] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 0
+2022-07-17 23:15:01,164 - [113] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - HoàngT?BaTu -> to State 1
+2022-07-17 23:15:11,925 - [32] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - HoàngT?BaTu -> to State 0
+2022-07-17 23:15:11,941 - [32] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Hines -> to State 2
+2022-07-17 23:16:23,242 - [32] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - SadTh?DaTìnk -> to State 1
+2022-07-17 23:16:23,429 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Baka -> to State 1
+2022-07-17 23:16:25,039 - [57] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 1
+2022-07-17 23:16:25,132 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 1
+2022-07-17 23:16:26,503 - [32] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 1
+2022-07-17 23:16:26,785 - [147] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 1
+2022-07-17 23:16:27,894 - [110] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 0
+2022-07-17 23:16:37,035 - [32] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 1
+2022-07-17 23:16:37,706 - [28] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 1
+2022-07-17 23:16:37,925 - [70] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 1
+2022-07-17 23:16:38,644 - [175] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Sugar Baby -> to State 1
+2022-07-17 23:16:43,675 - [101] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Baka -> to State 0
+2022-07-17 23:16:43,675 - [101] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - GumayuDung -> to State 2
+2022-07-17 23:16:43,691 - [101] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - SadTh?DaTìnk -> to State 0
+2022-07-17 23:16:44,566 - [30] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 0
+2022-07-17 23:16:58,037 - [32] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - dlwlrma -> to State 1
+2022-07-17 23:17:27,102 - [32] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - dlwlrma -> to State 0
+2022-07-17 23:17:27,227 - [32] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - BLVAnhNg?c -> to State 2
+2022-07-17 23:17:53,350 - [32] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Baka -> to State 1
+2022-07-17 23:17:53,803 - [101] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - SadTh?DaTìnk -> to State 1
+2022-07-17 23:17:53,975 - [101] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - KháP?nk -> to State 1
+2022-07-17 23:17:54,538 - [110] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - SadTh?DaTìnk -> to State 0
+2022-07-17 23:17:57,085 - [101] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 1
+2022-07-17 23:17:58,288 - [101] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 1
+2022-07-17 23:18:01,225 - [32] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Baka -> to State 0
+2022-07-17 23:18:07,975 - [30] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Baka -> to State 1
+2022-07-17 23:18:08,431 - [175] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 0
+2022-07-17 23:18:09,713 - [32] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Baka -> to State 0
+2022-07-17 23:18:10,625 - [101] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Binnko -> to State 1
+2022-07-17 23:18:12,600 - [175] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - H?iLâm -> to State 1
+2022-07-17 23:18:13,272 - [175] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Tuki -> to State 1
+2022-07-17 23:18:20,366 - [118] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - T? -> to State 1
+2022-07-17 23:18:23,100 - [32] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - H?iLâm -> to State 0
+2022-07-17 23:18:23,350 - [175] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - T? -> to State 0
+2022-07-17 23:18:23,350 - [175] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Binnko -> to State 0
+2022-07-17 23:18:23,350 - [175] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - NX -> to State 2
+2022-07-17 23:18:23,444 - [30] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Kramelt -> to State 1
+2022-07-17 23:18:27,866 - [32] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - MissCaiDe -> to State 2
+2022-07-17 23:18:28,427 - [175] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - KháP?nk -> to State 0
+2022-07-17 23:18:29,317 - [101] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Kramelt -> to State 0
+2022-07-17 23:18:29,520 - [118] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Tuki -> to State 0
+2022-07-17 23:18:33,458 - [106] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Baka -> to State 1
+2022-07-17 23:18:34,567 - [89] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - SadTh?DaTìnk -> to State 1
+2022-07-17 23:18:37,755 - [153] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 1
+2022-07-17 23:18:39,974 - [110] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 1
+2022-07-17 23:18:40,052 - [89] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 1
+2022-07-17 23:18:41,443 - [110] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - GumayuDung -> to State 2
+2022-07-17 23:18:41,849 - [89] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Baka -> to State 0
+2022-07-17 23:18:41,958 - [106] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - SadTh?DaTìnk -> to State 0
+2022-07-17 23:18:45,364 - [89] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 0
+2022-07-17 23:19:30,602 - [69] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 311400
+2022-07-17 23:19:44,803 - [89] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 1
+2022-07-17 23:19:45,662 - [89] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312400
+2022-07-17 23:19:56,594 - [89] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312400
+2022-07-17 23:20:01,950 - [110] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 0
+2022-07-17 23:20:03,872 - [106] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312400
+2022-07-17 23:20:10,945 - [63] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312400
+2022-07-17 23:20:17,080 - [89] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312400
+2022-07-17 23:20:17,299 - [110] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Sugar Baby -> to State 1
+2022-07-17 23:20:19,689 - [89] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Bbi?Cute -> to State 2
+2022-07-17 23:20:20,236 - [153] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Sugar Baby -> to State 0
+2022-07-17 23:20:21,549 - [63] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312400
+2022-07-17 23:20:25,629 - [153] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312400
+2022-07-17 23:20:28,082 - [63] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - HoàngT?BaTu -> to State 1
+2022-07-17 23:20:28,473 - [106] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312400
+2022-07-17 23:20:34,442 - [63] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312400
+2022-07-17 23:20:35,473 - [106] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Hines -> to State 2
+2022-07-17 23:20:35,520 - [153] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - HoàngT?BaTu -> to State 0
+2022-07-17 23:20:57,555 - [109] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - THTrueMilk -> to State 1
+2022-07-17 23:20:58,242 - [89] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ThíchAnXôi -> to State 1
+2022-07-17 23:20:59,180 - [106] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Engulfing -> to State 1
+2022-07-17 23:21:00,851 - [109] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Engulfing -> to State 0
+2022-07-17 23:21:00,867 - [109] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - THTrueMilk -> to State 0
+2022-07-17 23:21:01,008 - [89] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ?ACE?Ð???????¢ -> to State 2
+2022-07-17 23:21:01,086 - [110] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ThíchAnXôi -> to State 0
+2022-07-17 23:21:04,101 - [153] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - dlwlrma -> to State 1
+2022-07-17 23:21:22,021 - [153] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - H?iLâm -> to State 1
+2022-07-17 23:21:22,990 - [153] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Binnko -> to State 1
+2022-07-17 23:21:23,568 - [89] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - T? -> to State 1
+2022-07-17 23:21:32,074 - [69] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - dlwlrma -> to State 0
+2022-07-17 23:21:32,074 - [69] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - BLVAnhNg?c -> to State 2
+2022-07-17 23:21:42,126 - [110] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312400
+2022-07-17 23:21:43,704 - [110] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312400
+2022-07-17 23:21:45,157 - [109] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312400
+2022-07-17 23:21:46,610 - [109] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312400
+2022-07-17 23:21:48,063 - [89] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312400
+2022-07-17 23:22:08,489 - [109] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - H?iLâm -> to State 0
+2022-07-17 23:22:09,161 - [110] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - T? -> to State 0
+2022-07-17 23:22:09,349 - [109] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Binnko -> to State 0
+2022-07-17 23:22:10,349 - [106] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - NX -> to State 2
+2022-07-17 23:22:11,333 - [39] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - KháP?nk -> to State 1
+2022-07-17 23:22:12,286 - [69] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Kramelt -> to State 1
+2022-07-17 23:22:14,168 - [89] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Tuki -> to State 1
+2022-07-17 23:22:19,152 - [69] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - KháP?nk -> to State 0
+2022-07-17 23:22:19,340 - [39] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Kramelt -> to State 0
+2022-07-17 23:22:20,793 - [153] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - MissCaiDe -> to State 2
+2022-07-17 23:22:23,043 - [39] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Tuki -> to State 0
+2022-07-17 23:22:29,544 - [39] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - THTrueMilk -> to State 1
+2022-07-17 23:22:30,700 - [110] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Engulfing -> to State 1
+2022-07-17 23:22:45,918 - [106] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Sugar Baby -> to State 1
+2022-07-17 23:22:47,559 - [70] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Sugar Baby -> to State 0
+2022-07-17 23:22:47,574 - [30] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Bbi?Cute -> to State 2
+2022-07-17 23:22:52,432 - [175] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ThíchAnXôi -> to State 1
+2022-07-17 23:22:54,354 - [101] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ThíchAnXôi -> to State 1
+2022-07-17 23:22:55,255 - [70] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - THTrueMilk -> to State 0
+2022-07-17 23:22:55,349 - [70] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Engulfing -> to State 0
+2022-07-17 23:22:55,459 - [70] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ThíchAnXôi -> to State 0
+2022-07-17 23:22:55,537 - [28] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ThíchAnXôi -> to State 0
+2022-07-17 23:22:56,802 - [175] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ?ACE?Ð???????¢ -> to State 2
+2022-07-17 23:22:56,974 - [30] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 1
+2022-07-17 23:22:58,365 - [153] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 1
+2022-07-17 23:22:58,787 - [70] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ThíchAnXôi -> to State 0
+2022-07-17 23:23:04,553 - [101] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - G?uMèo -> to State 2
+2022-07-17 23:23:04,646 - [153] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 0
+2022-07-17 23:23:04,740 - [118] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 0
+2022-07-17 23:23:15,177 - [30] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - dlwlrma -> to State 1
+2022-07-17 23:23:47,083 - [118] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - dlwlrma -> to State 0
+2022-07-17 23:23:47,083 - [153] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - BLVAnhNg?c -> to State 2
+2022-07-17 23:23:56,179 - [118] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - H?iLâm -> to State 1
+2022-07-17 23:23:56,993 - [89] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Binnko -> to State 1
+2022-07-17 23:23:58,102 - [89] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - T? -> to State 1
+2022-07-17 23:23:59,368 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - H?iLâm -> to State 0
+2022-07-17 23:23:59,556 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - NX -> to State 2
+2022-07-17 23:23:59,602 - [153] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - T? -> to State 0
+2022-07-17 23:23:59,759 - [113] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Binnko -> to State 0
+2022-07-17 23:24:23,383 - [113] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 1
+2022-07-17 23:24:24,889 - [113] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - KháP?nk -> to State 1
+2022-07-17 23:24:25,679 - [113] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Kramelt -> to State 1
+2022-07-17 23:24:37,925 - [32] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - KháP?nk -> to State 0
+2022-07-17 23:24:41,644 - [118] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Sugar Baby -> to State 1
+2022-07-17 23:24:43,400 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Sugar Baby -> to State 0
+2022-07-17 23:24:43,446 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Bbi?Cute -> to State 2
+2022-07-17 23:24:50,040 - [94] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 1
+2022-07-17 23:24:50,543 - [174] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Tuki -> to State 1
+2022-07-17 23:24:51,200 - [41] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 1
+2022-07-17 23:24:53,719 - [41] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - G?uMèo -> to State 2
+2022-07-17 23:24:54,547 - [174] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 0
+2022-07-17 23:25:05,644 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 0
+2022-07-17 23:25:15,041 - [17] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312400
+2022-07-17 23:25:34,546 - [94] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Rin -> to State 1
+2022-07-17 23:25:36,655 - [96] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - hoanggdeptry -> to State 2
+2022-07-17 23:25:36,723 - [81] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - HoàngT?BaTu -> to State 1
+2022-07-17 23:25:36,895 - [169] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Rin -> to State 0
+2022-07-17 23:25:39,868 - [17] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - MissCaiDe -> to State 1
+2022-07-17 23:25:41,482 - [94] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - SadTh?DaTìnk -> to State 1
+2022-07-17 23:25:43,670 - [169] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Hines -> to State 2
+2022-07-17 23:25:43,795 - [94] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - HoàngT?BaTu -> to State 0
+2022-07-17 23:25:44,810 - [183] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - SadTh?DaTìnk -> to State 0
+2022-07-17 23:25:45,139 - [17] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - KháP?nk -> to State 2
+2022-07-17 23:25:45,701 - [183] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Kramelt -> to State 0
+2022-07-17 23:25:47,685 - [96] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Tuki -> to State 0
+2022-07-17 23:25:48,376 - [161] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - MissCaiDe -> to State 0
+2022-07-17 23:25:48,657 - [74] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - dlwlrma -> to State 1
+2022-07-17 23:25:58,797 - [94] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312400
+2022-07-17 23:26:17,057 - [94] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - BLVAnhNg?c -> to State 2
+2022-07-17 23:26:17,089 - [94] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - dlwlrma -> to State 0
+2022-07-17 23:26:32,276 - [74] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Monn -> to State 2
+2022-07-17 23:26:39,093 - [183] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - H?iLâm -> to State 1
+2022-07-17 23:26:39,516 - [17] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Binnko -> to State 1
+2022-07-17 23:26:39,859 - [96] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - T? -> to State 1
+2022-07-17 23:26:41,968 - [17] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - H?iLâm -> to State 0
+2022-07-17 23:26:42,156 - [74] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - NX -> to State 2
+2022-07-17 23:26:42,265 - [32] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - T? -> to State 0
+2022-07-17 23:26:42,468 - [161] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Binnko -> to State 0
+2022-07-17 23:27:05,493 - [169] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Rin -> to State 1
+2022-07-17 23:27:07,881 - [169] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Rin -> to State 0
+2022-07-17 23:27:07,897 - [169] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - hoanggdeptry -> to State 2
+2022-07-17 23:27:16,368 - [74] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Sugar Baby -> to State 1
+2022-07-17 23:27:31,239 - [161] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - HoàngT?BaTu -> to State 1
+2022-07-17 23:27:37,364 - [81] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - SadTh?DaTìnk -> to State 1
+2022-07-17 23:27:39,796 - [81] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - elirt -> to State 1
+2022-07-17 23:27:40,702 - [94] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Sugar Baby -> to State 0
+2022-07-17 23:27:41,827 - [169] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 1
+2022-07-17 23:27:43,874 - [161] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - THTrueMilk -> to State 1
+2022-07-17 23:27:45,437 - [17] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Sugar Baby -> to State 1
+2022-07-17 23:27:45,671 - [161] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Hines -> to State 2
+2022-07-17 23:27:45,718 - [169] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - HoàngT?BaTu -> to State 0
+2022-07-17 23:27:45,734 - [169] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - SadTh?DaTìnk -> to State 0
+2022-07-17 23:27:47,624 - [94] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Sugar Baby -> to State 0
+2022-07-17 23:27:47,624 - [94] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ThíchAnXôi -> to State 1
+2022-07-17 23:27:47,671 - [96] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Bbi?Cute -> to State 2
+2022-07-17 23:27:48,171 - [32] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - elirt -> to State 0
+2022-07-17 23:27:48,203 - [32] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 0
+2022-07-17 23:27:53,837 - [74] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - THTrueMilk -> to State 0
+2022-07-17 23:27:53,915 - [17] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 1
+2022-07-17 23:27:54,356 - [17] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - THTrueMilk -> to State 1
+2022-07-17 23:27:55,841 - [74] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 1
+2022-07-17 23:27:56,044 - [17] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ThíchAnXôi -> to State 0
+2022-07-17 23:27:56,091 - [169] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - THTrueMilk -> to State 0
+2022-07-17 23:27:56,231 - [17] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ?ACE?Ð???????¢ -> to State 2
+2022-07-17 23:28:02,587 - [32] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - G?uMèo -> to State 2
+2022-07-17 23:28:03,087 - [174] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 0
+2022-07-17 23:28:03,337 - [161] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 0
+2022-07-17 23:28:23,850 - [169] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Rin -> to State 1
+2022-07-17 23:28:26,334 - [81] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - hoanggdeptry -> to State 2
+2022-07-17 23:28:26,366 - [81] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Rin -> to State 0
+2022-07-17 23:28:33,319 - [17] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - dlwlrma -> to State 1
+2022-07-17 23:29:00,892 - [17] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 311400
+2022-07-17 23:29:02,139 - [161] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - dlwlrma -> to State 0
+2022-07-17 23:29:02,218 - [32] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - BLVAnhNg?c -> to State 2
+2022-07-17 23:29:02,233 - [32] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 311400
+2022-07-17 23:29:03,593 - [17] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 311400
+2022-07-17 23:29:18,097 - [174] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Rin -> to State 1
+2022-07-17 23:29:23,596 - [169] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - hoanggdeptry -> to State 2
+2022-07-17 23:29:23,643 - [32] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Rin -> to State 0
+2022-07-17 23:29:55,981 - [41] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 1
+2022-07-17 23:29:59,168 - [74] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 1
+2022-07-17 23:30:02,586 - [94] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 1
+2022-07-17 23:30:04,711 - [183] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Rin -> to State 1
+2022-07-17 23:30:07,571 - [94] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - hoanggdeptry -> to State 2
+2022-07-17 23:30:07,789 - [150] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Rin -> to State 0
+2022-07-17 23:30:07,883 - [94] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 0
+2022-07-17 23:30:07,899 - [183] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - G?uMèo -> to State 2
+2022-07-17 23:30:10,034 - [183] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 0
+2022-07-17 23:30:33,037 - [94] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - dlwlrma -> to State 1
+2022-07-17 23:31:17,618 - [150] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Sugar Baby -> to State 1
+2022-07-17 23:31:18,337 - [183] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - elirt -> to State 1
+2022-07-17 23:31:19,962 - [183] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Sugar Baby -> to State 0
+2022-07-17 23:31:20,040 - [183] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - elirt -> to State 0
+2022-07-17 23:31:20,071 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Bbi?Cute -> to State 2
+2022-07-17 23:31:29,816 - [183] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Kramelt -> to State 1
+2022-07-17 23:31:45,122 - [94] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - KháP?nk -> to State 1
+2022-07-17 23:31:47,607 - [41] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - MissCaiDe -> to State 2
+2022-07-17 23:31:47,825 - [183] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - KháP?nk -> to State 0
+2022-07-17 23:31:48,060 - [41] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Kramelt -> to State 0
+2022-07-17 23:31:51,810 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - H?iLâm -> to State 1
+2022-07-17 23:31:51,841 - [150] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Binnko -> to State 1
+2022-07-17 23:31:52,497 - [74] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - T? -> to State 1
+2022-07-17 23:31:59,441 - [150] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - H?iLâm -> to State 0
+2022-07-17 23:31:59,754 - [150] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - NX -> to State 2
+2022-07-17 23:31:59,941 - [74] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Binnko -> to State 0
+2022-07-17 23:31:59,957 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - T? -> to State 0
+2022-07-17 23:32:28,747 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - THTrueMilk -> to State 1
+2022-07-17 23:32:39,169 - [183] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - SadTh?DaTìnk -> to State 1
+2022-07-17 23:32:40,013 - [41] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 1
+2022-07-17 23:32:40,794 - [94] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 1
+2022-07-17 23:32:40,997 - [183] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 1
+2022-07-17 23:32:41,794 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ThíchAnXôi -> to State 1
+2022-07-17 23:32:41,888 - [41] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ThíchAnXôi -> to State 1
+2022-07-17 23:32:41,997 - [183] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ThíchAnXôi -> to State 0
+2022-07-17 23:32:43,153 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ThíchAnXôi -> to State 1
+2022-07-17 23:32:47,145 - [150] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 1
+2022-07-17 23:32:47,489 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - HoàngT?BaTu -> to State 1
+2022-07-17 23:32:48,833 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - SadTh?DaTìnk -> to State 0
+2022-07-17 23:32:48,973 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Hines -> to State 2
+2022-07-17 23:32:49,036 - [41] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - HoàngT?BaTu -> to State 0
+2022-07-17 23:32:49,098 - [183] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Rin -> to State 1
+2022-07-17 23:32:50,786 - [74] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - THTrueMilk -> to State 0
+2022-07-17 23:32:50,973 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ThíchAnXôi -> to State 0
+2022-07-17 23:32:51,192 - [150] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Rin -> to State 0
+2022-07-17 23:32:51,223 - [150] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - hoanggdeptry -> to State 2
+2022-07-17 23:32:51,817 - [150] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ?ACE?Ð???????¢ -> to State 2
+2022-07-17 23:32:53,286 - [150] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 0
+2022-07-17 23:32:55,208 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 1
+2022-07-17 23:32:56,098 - [181] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312400
+2022-07-17 23:33:01,605 - [74] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 0
+2022-07-17 23:33:01,605 - [74] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - G?uMèo -> to State 2
+2022-07-17 23:33:01,667 - [94] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 0
+2022-07-17 23:33:03,901 - [74] - ERROR - Game.Server.GameRoom.GameRoomLogicProcessor - IP:14.187.243.53:50626, OnGameData is Error: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.GameRoom.Handle.Login.CommandHandler(GamePlayer Player, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\GameRoom\Handle\Login.cs:line 67
+   at Game.Server.GameRoom.GameRoomLogicProcessor.OnGameData(GamePlayer player, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\GameRoom\GameRoomLogicProcessor.cs:line 31
+2022-07-17 23:33:57,093 - [146] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - dlwlrma -> to State 0
+2022-07-17 23:33:57,108 - [146] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - BLVAnhNg?c -> to State 2
+2022-07-17 23:34:03,624 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Rin -> to State 1
+2022-07-17 23:34:05,593 - [147] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Binnko -> to State 1
+2022-07-17 23:34:05,687 - [147] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - H?iLâm -> to State 1
+2022-07-17 23:34:06,155 - [146] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - T? -> to State 1
+2022-07-17 23:34:06,499 - [74] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - hoanggdeptry -> to State 2
+2022-07-17 23:34:06,515 - [74] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Rin -> to State 0
+2022-07-17 23:34:08,457 - [113] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - H?iLâm -> to State 0
+2022-07-17 23:34:08,566 - [74] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - T? -> to State 0
+2022-07-17 23:34:08,691 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Binnko -> to State 0
+2022-07-17 23:34:09,222 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - NX -> to State 2
+2022-07-17 23:34:12,035 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - elirt -> to State 1
+2022-07-17 23:34:45,482 - [113] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 1
+2022-07-17 23:34:47,657 - [74] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 1
+2022-07-17 23:34:50,521 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - THTrueMilk -> to State 1
+2022-07-17 23:34:51,272 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - G?uMèo -> to State 2
+2022-07-17 23:34:51,381 - [113] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 0
+2022-07-17 23:34:53,662 - [147] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ThíchAnXôi -> to State 1
+2022-07-17 23:34:54,381 - [113] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 0
+2022-07-17 23:34:55,272 - [146] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ThíchAnXôi -> to State 1
+2022-07-17 23:34:55,865 - [146] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ThíchAnXôi -> to State 1
+2022-07-17 23:34:56,350 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - SadTh?DaTìnk -> to State 1
+2022-07-17 23:34:57,162 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - HoàngT?BaTu -> to State 1
+2022-07-17 23:34:57,412 - [147] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 1
+2022-07-17 23:34:57,678 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 1
+2022-07-17 23:34:57,789 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 1
+2022-07-17 23:34:59,276 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - THTrueMilk -> to State 0
+2022-07-17 23:34:59,276 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - SadTh?DaTìnk -> to State 0
+2022-07-17 23:34:59,354 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - HoàngT?BaTu -> to State 0
+2022-07-17 23:34:59,416 - [113] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Hines -> to State 2
+2022-07-17 23:34:59,604 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ?ACE?Ð???????¢ -> to State 2
+2022-07-17 23:35:02,994 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 0
+2022-07-17 23:35:04,307 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ThíchAnXôi -> to State 0
+2022-07-17 23:35:12,418 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Rin -> to State 1
+2022-07-17 23:35:16,041 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - hoanggdeptry -> to State 2
+2022-07-17 23:35:16,510 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Rin -> to State 0
+2022-07-17 23:35:18,651 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Sugar Baby -> to State 1
+2022-07-17 23:35:20,307 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - elirt -> to State 0
+2022-07-17 23:35:20,338 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Sugar Baby -> to State 0
+2022-07-17 23:35:20,354 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Bbi?Cute -> to State 2
+2022-07-17 23:35:55,883 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - H?iLâm -> to State 1
+2022-07-17 23:35:55,883 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Binnko -> to State 1
+2022-07-17 23:35:56,446 - [146] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - T? -> to State 1
+2022-07-17 23:36:34,199 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - SadTh?DaTìnk -> to State 1
+2022-07-17 23:36:38,525 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - H?iLâm -> to State 0
+2022-07-17 23:36:38,775 - [113] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Binnko -> to State 0
+2022-07-17 23:36:41,916 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - T? -> to State 0
+2022-07-17 23:36:44,979 - [74] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - HoàngT?BaTu -> to State 1
+2022-07-17 23:36:48,260 - [147] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - SadTh?DaTìnk -> to State 0
+2022-07-17 23:36:48,275 - [147] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - HoàngT?BaTu -> to State 0
+2022-07-17 23:36:48,322 - [146] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Hines -> to State 2
+2022-07-17 23:36:52,150 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - NX -> to State 2
+2022-07-17 23:37:01,526 - [74] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - KháP?nk -> to State 1
+2022-07-17 23:37:02,276 - [74] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Kramelt -> to State 1
+2022-07-17 23:37:04,756 - [147] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - KháP?nk -> to State 0
+2022-07-17 23:37:04,850 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - MissCaiDe -> to State 2
+2022-07-17 23:37:05,037 - [180] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Kramelt -> to State 0
+2022-07-17 23:37:27,826 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - elirt -> to State 1
+2022-07-17 23:37:33,226 - [147] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Sugar Baby -> to State 1
+2022-07-17 23:37:34,973 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 1
+2022-07-17 23:37:35,004 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Bbi?Cute -> to State 2
+2022-07-17 23:37:35,020 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Sugar Baby -> to State 0
+2022-07-17 23:37:35,020 - [147] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - elirt -> to State 0
+2022-07-17 23:37:35,895 - [146] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 1
+2022-07-17 23:37:43,270 - [74] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - G?uMèo -> to State 2
+2022-07-17 23:37:43,410 - [180] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 0
+2022-07-17 23:37:43,504 - [113] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - dlwlrma -> to State 1
+2022-07-17 23:37:43,645 - [147] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 0
+2022-07-17 23:38:12,089 - [180] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - dlwlrma -> to State 0
+2022-07-17 23:38:12,167 - [74] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - BLVAnhNg?c -> to State 2
+2022-07-17 23:39:04,441 - [57] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - HoàngT?BaTu -> to State 1
+2022-07-17 23:39:07,050 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - SadTh?DaTìnk -> to State 1
+2022-07-17 23:39:10,081 - [180] - ERROR - Game.Server.GameRoom.GameRoomLogicProcessor - IP:14.187.243.53:50626, OnGameData is Error: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.GameRoom.Handle.Login.CommandHandler(GamePlayer Player, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\GameRoom\Handle\Login.cs:line 67
+   at Game.Server.GameRoom.GameRoomLogicProcessor.OnGameData(GamePlayer player, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\GameRoom\GameRoomLogicProcessor.cs:line 31
+2022-07-17 23:39:15,582 - [113] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Hines -> to State 2
+2022-07-17 23:39:15,597 - [113] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - HoàngT?BaTu -> to State 0
+2022-07-17 23:39:15,707 - [74] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - SadTh?DaTìnk -> to State 0
+2022-07-17 23:39:31,813 - [57] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Binnko -> to State 1
+2022-07-17 23:39:32,625 - [113] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - KháP?nk -> to State 1
+2022-07-17 23:39:32,672 - [113] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - H?iLâm -> to State 1
+2022-07-17 23:39:32,954 - [74] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 1
+2022-07-17 23:39:33,532 - [57] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Kramelt -> to State 1
+2022-07-17 23:39:36,159 - [57] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 1
+2022-07-17 23:39:41,112 - [113] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 0
+2022-07-17 23:39:42,643 - [180] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - G?uMèo -> to State 2
+2022-07-17 23:39:43,534 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - T? -> to State 1
+2022-07-17 23:39:45,175 - [57] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 0
+2022-07-17 23:39:45,847 - [113] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - MissCaiDe -> to State 2
+2022-07-17 23:39:45,956 - [74] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - KháP?nk -> to State 0
+2022-07-17 23:39:46,097 - [113] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Kramelt -> to State 0
+2022-07-17 23:39:48,456 - [113] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Rin -> to State 1
+2022-07-17 23:39:50,565 - [74] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Rin -> to State 0
+2022-07-17 23:39:50,581 - [74] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - hoanggdeptry -> to State 2
+2022-07-17 23:39:50,800 - [180] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - H?iLâm -> to State 0
+2022-07-17 23:39:50,816 - [180] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Binnko -> to State 0
+2022-07-17 23:39:52,642 - [74] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - NX -> to State 2
+2022-07-17 23:39:52,751 - [57] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - T? -> to State 0
+2022-07-17 23:40:21,165 - [113] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - dlwlrma -> to State 1
+2022-07-17 23:40:52,082 - [146] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - dlwlrma -> to State 0
+2022-07-17 23:40:52,097 - [146] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - BLVAnhNg?c -> to State 2
+2022-07-17 23:41:01,775 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - THTrueMilk -> to State 1
+2022-07-17 23:41:04,744 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 1
+2022-07-17 23:41:05,635 - [146] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ThíchAnXôi -> to State 1
+2022-07-17 23:41:09,447 - [146] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - THTrueMilk -> to State 0
+2022-07-17 23:41:09,650 - [74] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 0
+2022-07-17 23:41:09,666 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ThíchAnXôi -> to State 0
+2022-07-17 23:41:09,791 - [113] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ?ACE?Ð???????¢ -> to State 2
+2022-07-17 23:41:11,673 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Rin -> to State 1
+2022-07-17 23:41:14,048 - [57] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - hoanggdeptry -> to State 2
+2022-07-17 23:41:14,080 - [57] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Rin -> to State 0
+2022-07-17 23:42:02,135 - [113] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - elirt -> to State 1
+2022-07-17 23:42:09,466 - [150] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - THTrueMilk -> to State 1
+2022-07-17 23:42:17,123 - [118] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 1
+2022-07-17 23:42:19,154 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ThíchAnXôi -> to State 1
+2022-07-17 23:42:22,527 - [118] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - THTrueMilk -> to State 0
+2022-07-17 23:42:22,902 - [147] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ThíchAnXôi -> to State 0
+2022-07-17 23:42:22,917 - [147] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ?ACE?Ð???????¢ -> to State 2
+2022-07-17 23:42:23,105 - [118] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 0
+2022-07-17 23:42:23,261 - [147] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Sugar Baby -> to State 1
+2022-07-17 23:42:30,617 - [147] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 1
+2022-07-17 23:42:33,211 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 1
+2022-07-17 23:42:34,383 - [41] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Rin -> to State 1
+2022-07-17 23:42:36,461 - [79] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - hoanggdeptry -> to State 2
+2022-07-17 23:42:36,508 - [94] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Rin -> to State 0
+2022-07-17 23:42:40,680 - [150] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - G?uMèo -> to State 2
+2022-07-17 23:42:40,883 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 0
+2022-07-17 23:42:40,898 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 0
+2022-07-17 23:42:41,711 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Sugar Baby -> to State 0
+2022-07-17 23:42:52,071 - [70] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Wendy -> to State 2
+2022-07-17 23:42:57,981 - [183] - ERROR - Game.Server.GameRoom.GameRoomLogicProcessor - IP:14.233.6.197:60071, OnGameData is Error: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Rooms.RoomSetupChangeAction.GetLastFloor(Int32 mapID, Int32 hardLevel) in C:\NEWGUN\Source Server\Game.Server\Rooms\RoomSetupChangeAction.cs:line 60
+   at Game.Server.Rooms.RoomSetupChangeAction..ctor(BaseRoom room, eRoomType roomType, Byte timeMode, eHardLevel hardLevel, Int32 levelLimits, Int32 mapId, String password, String roomname, Boolean isCrosszone, Boolean isOpenBoss, String Pic, Int32 currentFloor) in C:\NEWGUN\Source Server\Game.Server\Rooms\RoomSetupChangeAction.cs:line 51
+   at Game.Server.Rooms.RoomMgr.UpdateRoomGameType(BaseRoom room, eRoomType roomType, Byte timeMode, eHardLevel hardLevel, Int32 levelLimits, Int32 mapId, String password, String roomname, Boolean isCrosszone, Boolean isOpenBoss, String Pic, Int32 currentFloor) in C:\NEWGUN\Source Server\Game.Server\Rooms\RoomMgr.cs:line 238
+   at Game.Server.GameRoom.Handle.SetupChange.CommandHandler(GamePlayer Player, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\GameRoom\Handle\SetupChange.cs:line 81
+   at Game.Server.GameRoom.GameRoomLogicProcessor.OnGameData(GamePlayer player, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\GameRoom\GameRoomLogicProcessor.cs:line 31
+2022-07-17 23:43:19,460 - [61] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - HoàngT?BaTu -> to State 1
+2022-07-17 23:43:20,600 - [174] - ERROR - Game.Server.GameRoom.GameRoomLogicProcessor - IP:14.226.81.103:59252, OnGameData is Error: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Rooms.RoomSetupChangeAction.GetLastFloor(Int32 mapID, Int32 hardLevel) in C:\NEWGUN\Source Server\Game.Server\Rooms\RoomSetupChangeAction.cs:line 60
+   at Game.Server.Rooms.RoomSetupChangeAction..ctor(BaseRoom room, eRoomType roomType, Byte timeMode, eHardLevel hardLevel, Int32 levelLimits, Int32 mapId, String password, String roomname, Boolean isCrosszone, Boolean isOpenBoss, String Pic, Int32 currentFloor) in C:\NEWGUN\Source Server\Game.Server\Rooms\RoomSetupChangeAction.cs:line 51
+   at Game.Server.Rooms.RoomMgr.UpdateRoomGameType(BaseRoom room, eRoomType roomType, Byte timeMode, eHardLevel hardLevel, Int32 levelLimits, Int32 mapId, String password, String roomname, Boolean isCrosszone, Boolean isOpenBoss, String Pic, Int32 currentFloor) in C:\NEWGUN\Source Server\Game.Server\Rooms\RoomMgr.cs:line 238
+   at Game.Server.GameRoom.Handle.SetupChange.CommandHandler(GamePlayer Player, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\GameRoom\Handle\SetupChange.cs:line 81
+   at Game.Server.GameRoom.GameRoomLogicProcessor.OnGameData(GamePlayer player, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\GameRoom\GameRoomLogicProcessor.cs:line 31
+2022-07-17 23:43:26,646 - [61] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - MinhChou -> to State 1
+2022-07-17 23:43:31,552 - [61] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Sugar Baby -> to State 1
+2022-07-17 23:43:32,818 - [179] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - dlwlrma -> to State 1
+2022-07-17 23:43:43,806 - [110] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - elirt -> to State 1
+2022-07-17 23:43:45,478 - [174] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Rin -> to State 1
+2022-07-17 23:43:47,025 - [179] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - MinhChou -> to State 0
+2022-07-17 23:43:47,072 - [147] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Sugar Baby -> to State 0
+2022-07-17 23:43:47,228 - [179] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - elirt -> to State 0
+2022-07-17 23:43:47,228 - [179] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Bbi?Cute -> to State 2
+2022-07-17 23:43:48,275 - [110] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - hoanggdeptry -> to State 2
+2022-07-17 23:43:48,759 - [147] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Rin -> to State 0
+2022-07-17 23:43:51,665 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - HoàngT?BaTu -> to State 0
+2022-07-17 23:43:51,744 - [110] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Hines -> to State 2
+2022-07-17 23:44:02,074 - [110] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - BLVAnhNg?c -> to State 2
+2022-07-17 23:44:02,074 - [110] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - dlwlrma -> to State 0
+2022-07-17 23:44:36,413 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 1
+2022-07-17 23:44:37,398 - [153] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 1
+2022-07-17 23:44:38,179 - [153] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312400
+2022-07-17 23:44:41,164 - [153] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 1
+2022-07-17 23:44:44,992 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 0
+2022-07-17 23:44:48,342 - [89] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - G?uMèo -> to State 2
+2022-07-17 23:44:51,516 - [89] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 0
+2022-07-17 23:45:37,747 - [49] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - HoàngT?BaTu -> to State 1
+2022-07-17 23:45:43,982 - [150] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Kramelt -> to State 1
+2022-07-17 23:45:45,209 - [30] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - KháP?nk -> to State 1
+2022-07-17 23:45:52,195 - [150] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Hines -> to State 2
+2022-07-17 23:45:52,352 - [150] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - HoàngT?BaTu -> to State 0
+2022-07-17 23:45:56,617 - [94] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Kramelt -> to State 0
+2022-07-17 23:45:56,742 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - MissCaiDe -> to State 2
+2022-07-17 23:45:56,836 - [150] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - KháP?nk -> to State 0
+2022-07-17 23:46:12,296 - [180] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - dlwlrma -> to State 1
+2022-07-17 23:46:44,772 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - H?iLâm -> to State 1
+2022-07-17 23:47:36,659 - [30] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - KháP?nk -> to State 1
+2022-07-17 23:47:37,314 - [89] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Kramelt -> to State 1
+2022-07-17 23:47:46,548 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - H?iLâm -> to State 1
+2022-07-17 23:47:49,400 - [110] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - MissCaiDe -> to State 2
+2022-07-17 23:47:50,166 - [72] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - H?iLâm -> to State 0
+2022-07-17 23:47:50,713 - [180] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Kramelt -> to State 0
+2022-07-17 23:47:50,869 - [55] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 1
+2022-07-17 23:47:51,369 - [180] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - KháP?nk -> to State 0
+2022-07-17 23:47:52,463 - [110] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - G?uMèo -> to State 1
+2022-07-17 23:47:53,681 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - MinhChou -> to State 1
+2022-07-17 23:47:55,322 - [179] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - elirt -> to State 1
+2022-07-17 23:47:57,103 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - HoàngT?BaTu -> to State 1
+2022-07-17 23:47:57,744 - [179] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - THTrueMilk -> to State 1
+2022-07-17 23:47:59,150 - [180] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ThíchAnXôi -> to State 1
+2022-07-17 23:47:59,822 - [55] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - G?uMèo -> to State 0
+2022-07-17 23:47:59,869 - [110] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 2
+2022-07-17 23:48:00,181 - [55] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 0
+2022-07-17 23:48:01,072 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Sugar Baby -> to State 1
+2022-07-17 23:48:02,603 - [110] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - elirt -> to State 0
+2022-07-17 23:48:02,603 - [110] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Sugar Baby -> to State 0
+2022-07-17 23:48:02,666 - [61] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Bbi?Cute -> to State 2
+2022-07-17 23:48:02,681 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - MinhChou -> to State 0
+2022-07-17 23:48:04,871 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 1
+2022-07-17 23:48:06,887 - [110] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 1
+2022-07-17 23:48:07,434 - [180] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - HoàngT?BaTu -> to State 0
+2022-07-17 23:48:07,481 - [55] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Hines -> to State 2
+2022-07-17 23:48:09,797 - [110] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 0
+2022-07-17 23:48:09,890 - [180] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 0
+2022-07-17 23:48:12,437 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - THTrueMilk -> to State 0
+2022-07-17 23:48:14,297 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ?ACE?Ð???????¢ -> to State 2
+2022-07-17 23:48:14,406 - [61] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ThíchAnXôi -> to State 0
+2022-07-17 23:48:14,468 - [110] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 0
+2022-07-17 23:48:32,034 - [31] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312400
+2022-07-17 23:49:42,522 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - THTrueMilk -> to State 1
+2022-07-17 23:49:44,710 - [55] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ThíchAnXôi -> to State 1
+2022-07-17 23:49:44,788 - [61] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ThíchAnXôi -> to State 1
+2022-07-17 23:49:47,272 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 1
+2022-07-17 23:49:47,507 - [55] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 1
+2022-07-17 23:49:47,788 - [179] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - H?iLâm -> to State 1
+2022-07-17 23:49:47,944 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - KháP?nk -> to State 1
+2022-07-17 23:49:48,772 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Kramelt -> to State 1
+2022-07-17 23:49:51,144 - [180] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - THTrueMilk -> to State 0
+2022-07-17 23:49:51,887 - [179] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - dlwlrma -> to State 0
+2022-07-17 23:49:52,324 - [55] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ?ACE?Ð???????¢ -> to State 2
+2022-07-17 23:49:52,387 - [72] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ThíchAnXôi -> to State 0
+2022-07-17 23:49:52,512 - [72] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - AkashiKuro -> to State 0
+2022-07-17 23:49:56,094 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 1
+2022-07-17 23:49:57,359 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - G?uMèo -> to State 1
+2022-07-17 23:50:00,909 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 2
+2022-07-17 23:50:02,097 - [55] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - H?iLâm -> to State 0
+2022-07-17 23:50:02,253 - [179] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - MissCaiDe -> to State 2
+2022-07-17 23:50:04,894 - [179] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Kramelt -> to State 0
+2022-07-17 23:50:05,159 - [180] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - KháP?nk -> to State 0
+2022-07-17 23:50:06,784 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Rin -> to State 1
+2022-07-17 23:50:08,706 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - HoàngT?BaTu -> to State 1
+2022-07-17 23:50:08,737 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - hoanggdeptry -> to State 2
+2022-07-17 23:50:08,769 - [181] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Rin -> to State 0
+2022-07-17 23:50:09,847 - [180] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - G?uMèo -> to State 0
+2022-07-17 23:50:11,862 - [81] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 0
+2022-07-17 23:50:26,063 - [81] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Hines -> to State 2
+2022-07-17 23:50:26,297 - [81] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - HoàngT?BaTu -> to State 0
+2022-07-17 23:51:26,096 - [70] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Rin -> to State 1
+2022-07-17 23:51:28,299 - [81] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - hoanggdeptry -> to State 2
+2022-07-17 23:51:28,314 - [81] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Rin -> to State 0
+2022-07-17 23:52:13,677 - [49] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312400
+2022-07-17 23:52:15,094 - [61] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312400
+2022-07-17 23:52:16,578 - [61] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312400
+2022-07-17 23:52:16,875 - [49] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - MinhChou -> to State 1
+2022-07-17 23:52:18,015 - [31] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312400
+2022-07-17 23:52:19,437 - [49] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312400
+2022-07-17 23:52:20,875 - [30] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312400
+2022-07-17 23:52:30,328 - [49] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Sugar Baby -> to State 1
+2022-07-17 23:52:32,312 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - elirt -> to State 1
+2022-07-17 23:52:33,786 - [180] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - MinhChou -> to State 0
+2022-07-17 23:52:33,879 - [49] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - elirt -> to State 0
+2022-07-17 23:52:33,911 - [180] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Sugar Baby -> to State 0
+2022-07-17 23:52:33,911 - [180] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Bbi?Cute -> to State 2
+2022-07-17 23:52:36,939 - [55] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Rin -> to State 1
+2022-07-17 23:52:38,783 - [31] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - hoanggdeptry -> to State 2
+2022-07-17 23:52:38,798 - [180] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Rin -> to State 0
+2022-07-17 23:52:48,752 - [180] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312300
+2022-07-17 23:52:50,267 - [49] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312300
+2022-07-17 23:52:51,908 - [94] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312300
+2022-07-17 23:52:53,470 - [180] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312300
+2022-07-17 23:52:55,064 - [31] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312300
+2022-07-17 23:52:56,611 - [30] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312300
+2022-07-17 23:52:58,158 - [147] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312300
+2022-07-17 23:53:00,251 - [174] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 1
+2022-07-17 23:53:07,228 - [147] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 1
+2022-07-17 23:53:13,510 - [30] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - G?uMèo -> to State 2
+2022-07-17 23:53:13,682 - [174] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 0
+2022-07-17 23:53:13,963 - [30] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 0
+2022-07-17 23:53:39,047 - [147] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Rin -> to State 1
+2022-07-17 23:53:39,875 - [30] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Rin -> to State 0
+2022-07-17 23:53:47,110 - [188] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=FigSpiritUpGradeHandler  client: 14.187.243.53:50626)
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at FigSpiritUpGradeHandler.getNeedExp(Int32 _curExp, Int32 _curLv) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\FigSpiritUpGradeHandler.cs:line 19
+   at FigSpiritUpGradeHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\FigSpiritUpGradeHandler.cs:line 132
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-17 23:53:47,110 - [188] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 35 05 52 00 D1 00 00 09 D9 00 00 00 00   q..5.R..........
+0010: 00 00 00 00 03 00 00 00 01 00 98 BD 91 00 00 00   ................
+0020: 01 00 01 87 04 00 01 86 A3 00 00 00 05 00 00 00   ................
+0030: 02 00 00 00 00                                    .....           
+
+2022-07-17 23:53:48,344 - [167] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Rin -> to State 1
+2022-07-17 23:53:50,329 - [147] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 1
+2022-07-17 23:53:51,563 - [167] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - hoanggdeptry -> to State 2
+2022-07-17 23:53:51,860 - [92] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Rin -> to State 0
+2022-07-17 23:53:56,466 - [104] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 1
+2022-07-17 23:54:01,829 - [92] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=FigSpiritUpGradeHandler  client: 14.187.243.53:50626)
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at FigSpiritUpGradeHandler.getNeedExp(Int32 _curExp, Int32 _curLv) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\FigSpiritUpGradeHandler.cs:line 19
+   at FigSpiritUpGradeHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\FigSpiritUpGradeHandler.cs:line 132
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-17 23:54:01,829 - [92] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 35 05 52 00 D1 00 00 09 D9 00 00 00 00   q..5.R..........
+0010: 00 00 00 00 03 00 00 00 01 00 98 BD 91 00 00 00   ................
+0020: 01 00 01 87 04 00 01 86 A3 00 00 00 05 00 00 00   ................
+0030: 02 00 00 00 00                                    .....           
+
+2022-07-17 23:54:05,297 - [104] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - G?uMèo -> to State 2
+2022-07-17 23:54:05,485 - [59] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 0
+2022-07-17 23:54:05,547 - [64] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 0
+2022-07-17 23:54:47,356 - [104] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - THTrueMilk -> to State 1
+2022-07-17 23:55:04,774 - [147] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - THTrueMilk -> to State 0
+2022-07-17 23:55:04,806 - [147] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ?ACE?Ð???????¢ -> to State 2
+2022-07-17 23:55:45,385 - [167] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 313300
+2022-07-17 23:55:58,808 - [167] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - HoàngT?BaTu -> to State 1
+2022-07-17 23:55:59,026 - [118] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - SadTh?DaTìnk -> to State 1
+2022-07-17 23:56:01,527 - [42] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Hines -> to State 2
+2022-07-17 23:56:01,606 - [170] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - HoàngT?BaTu -> to State 0
+2022-07-17 23:56:01,668 - [147] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 1
+2022-07-17 23:56:02,106 - [147] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - SadTh?DaTìnk -> to State 0
+2022-07-17 23:56:04,746 - [92] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 1
+2022-07-17 23:56:12,801 - [92] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 1
+2022-07-17 23:56:42,072 - [170] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 0
+2022-07-17 23:56:46,213 - [147] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - G?uMèo -> to State 2
+2022-07-17 23:56:48,463 - [118] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 0
+2022-07-17 23:56:51,573 - [92] - ERROR - Bussiness.Managers.ItemBoxMgr - ItemBoxMgr Random Error: 0 | 312400
+2022-07-17 23:57:13,105 - [174] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - MinhChou -> to State 1
+2022-07-17 23:57:32,073 - [118] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - HoàngT?BaTu -> to State 1
+2022-07-17 23:57:41,354 - [174] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - SadTh?DaTìnk -> to State 1
+2022-07-17 23:57:44,284 - [167] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - HoàngT?BaTu -> to State 0
+2022-07-17 23:57:44,315 - [167] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Hines -> to State 2
+2022-07-17 23:57:44,377 - [167] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - SadTh?DaTìnk -> to State 0
+2022-07-17 23:57:47,659 - [118] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Sugar Baby -> to State 1
+2022-07-17 23:57:57,143 - [183] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - elirt -> to State 1
+2022-07-17 23:57:58,378 - [147] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - elirt -> to State 0
+2022-07-17 23:58:14,905 - [167] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - elirt -> to State 1
+2022-07-17 23:58:58,859 - [167] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Sugar Baby -> to State 0
+2022-07-17 23:58:59,754 - [170] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Sugar Baby -> to State 1
+2022-07-17 23:59:01,473 - [147] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - elirt -> to State 0
+2022-07-17 23:59:01,520 - [118] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Sugar Baby -> to State 0
+2022-07-17 23:59:01,536 - [167] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Bbi?Cute -> to State 2
+2022-07-17 23:59:01,551 - [167] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - MinhChou -> to State 0
+2022-07-17 23:59:24,705 - [170] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 1
+2022-07-17 23:59:26,520 - [167] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 1
+2022-07-17 23:59:33,271 - [183] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - get my gun -> to State 0
+2022-07-17 23:59:33,443 - [147] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - G?uMèo -> to State 2
+2022-07-17 23:59:33,834 - [118] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - nomSaker -> to State 0
+2022-07-17 23:59:40,815 - [150] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - THTrueMilk -> to State 1
+2022-07-17 23:59:42,884 - [180] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - THTrueMilk -> to State 0
+2022-07-17 23:59:42,930 - [170] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - ?ACE?Ð???????¢ -> to State 2

@@ -1,0 +1,5 @@
+2022-07-06 13:02:11,501 - [MAIN] - ERROR - Game.Base.BaseConnector - Connect 20.24.28.243:9202 failed!
+2022-07-06 13:02:11,505 - [16] - ERROR - Game.Server.GameServer - Reconnecting after 5 minutes
+2022-07-06 13:04:42,140 - [37] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - TEST -> to State 2
+2022-07-06 13:07:11,512 - [16] - ERROR - Game.Server.GameServer - Reconnecting after :14 try
+2022-07-06 13:08:57,789 - [73] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - TEST -> to State 2

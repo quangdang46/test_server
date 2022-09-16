@@ -1,0 +1,2 @@
+2022-07-16 09:16:37,222 - [MAIN] - ERROR - Game.Base.BaseConnector - Connect 20.24.28.243:9202 failed!
+2022-07-16 09:16:37,227 - [16] - ERROR - Game.Server.GameServer - Reconnecting after 5 minutes

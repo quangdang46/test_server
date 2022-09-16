@@ -1,0 +1,41 @@
+2022-06-04 12:46:48,495 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+2022-06-04 12:46:48,517 - [MAIN] - INFO  - Fighting.Server.FightServer - Recompile Scripts: True
+2022-06-04 12:46:48,552 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+2022-06-04 12:46:48,553 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+2022-06-04 12:46:48,554 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+2022-06-04 12:46:48,555 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+2022-06-04 12:46:48,744 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+2022-06-04 12:46:48,876 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+2022-06-04 12:46:48,886 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+2022-06-04 12:46:49,172 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+2022-06-04 12:46:49,178 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+2022-06-04 12:46:49,195 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+2022-06-04 12:46:49,213 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+2022-06-04 12:46:49,243 - [MAIN] - INFO  - Fighting.Server.FightServer - WindMgr Init: True
+2022-06-04 12:46:49,255 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+2022-06-04 12:46:49,261 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+2022-06-04 12:46:49,269 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+2022-06-04 12:46:49,281 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+2022-06-04 12:46:55,075 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 10.1.0.4:56160
+2022-06-04 12:46:55,161 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 10.1.0.4:56161
+2022-06-04 17:10:29,425 - [25] - INFO  - Game.Base.BaseClient - Disconnecting client (10.1.0.4:56160), received bytes=0
+2022-06-04 17:10:29,441 - [25] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+2022-06-04 17:10:33,421 - [25] - INFO  - Game.Base.BaseServer - Incoming connection from socket disconnected
+2022-06-04 18:03:59,057 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+2022-06-04 18:03:59,073 - [MAIN] - INFO  - Fighting.Server.FightServer - Recompile Scripts: True
+2022-06-04 18:03:59,104 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+2022-06-04 18:03:59,104 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+2022-06-04 18:03:59,104 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+2022-06-04 18:03:59,104 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+2022-06-04 18:03:59,292 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+2022-06-04 18:03:59,417 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+2022-06-04 18:03:59,432 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+2022-06-04 18:03:59,698 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+2022-06-04 18:03:59,698 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+2022-06-04 18:03:59,714 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+2022-06-04 18:03:59,745 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+2022-06-04 18:03:59,761 - [MAIN] - INFO  - Fighting.Server.FightServer - WindMgr Init: True
+2022-06-04 18:03:59,776 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+2022-06-04 18:03:59,776 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+2022-06-04 18:03:59,792 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+2022-06-04 18:03:59,807 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!

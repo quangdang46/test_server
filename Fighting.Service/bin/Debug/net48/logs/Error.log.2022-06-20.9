@@ -1,0 +1,7 @@
+2022-06-20 09:42:29,450 - [11] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.PVPGame.RemovePlayer(IGamePlayer gp, Boolean IsKick) in C:\NEWGUN\Source\Game.Logic\PVPGame.cs:line 666
+   at Fighting.Server.Games.BattleGame.RemovePlayer(IGamePlayer gp, Boolean IsKick) in C:\NEWGUN\Source\Fighting.Server\Games\BattleGame.cs:line 54
+   at Fighting.Server.ServerClient.HandlePlayerExit(GSPacketIn pkg) in C:\NEWGUN\Source\Fighting.Server\ServerClient.cs:line 98
+   at Fighting.Server.ServerClient.OnRecvPacket(GSPacketIn pkg) in C:\NEWGUN\Source\Fighting.Server\ServerClient.cs:line 75
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in C:\NEWGUN\Source\Game.Base\Packets\StreamProcessor.cs:line 262

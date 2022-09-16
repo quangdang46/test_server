@@ -1,0 +1,153 @@
+2022-06-06 00:22:49,446 - [23] - ERROR - Fighting.Server.ServerClient - Room already exists:893.
+2022-06-06 00:23:32,201 - [29] - ERROR - Fighting.Server.ServerClient - Room already exists:671.
+2022-06-06 00:26:06,735 - [43] - ERROR - Fighting.Server.ServerClient - Room already exists:893.
+2022-06-06 00:53:41,281 - [57] - ERROR - Fighting.Server.ServerClient - Room already exists:15.
+2022-06-06 01:11:46,231 - [35] - ERROR - Fighting.Server.ServerClient - Room already exists:442.
+2022-06-06 01:15:55,061 - [42] - ERROR - Fighting.Server.ServerClient - Room already exists:442.
+2022-06-06 01:17:42,430 - [43] - ERROR - Fighting.Server.ServerClient - Room already exists:442.
+2022-06-06 01:36:14,287 - [53] - ERROR - Fighting.Server.ServerClient - Room already exists:308.
+2022-06-06 05:27:01,510 - [31] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+2022-06-06 05:27:05,257 - [31] - INFO  - Game.Base.BaseServer - Incoming connection from socket disconnected
+2022-06-06 06:34:35,802 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+2022-06-06 06:34:35,818 - [MAIN] - INFO  - Fighting.Server.FightServer - Recompile Scripts: True
+2022-06-06 06:34:35,849 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+2022-06-06 06:34:35,849 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+2022-06-06 06:34:35,849 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+2022-06-06 06:34:35,849 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+2022-06-06 06:34:36,037 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+2022-06-06 06:34:36,162 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+2022-06-06 06:34:36,162 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+2022-06-06 06:34:36,396 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+2022-06-06 06:34:36,412 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+2022-06-06 06:34:36,427 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+2022-06-06 06:34:36,443 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+2022-06-06 06:34:36,459 - [MAIN] - INFO  - Fighting.Server.FightServer - WindMgr Init: True
+2022-06-06 06:34:36,474 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+2022-06-06 06:34:36,474 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+2022-06-06 06:34:36,490 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+2022-06-06 06:34:36,506 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+2022-06-06 06:34:42,107 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 10.1.0.4:50934
+2022-06-06 06:34:43,044 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 10.1.0.4:50935
+2022-06-06 06:38:09,386 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (10.1.0.4:50934), received bytes=0
+2022-06-06 06:38:09,511 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+2022-06-06 06:38:13,289 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from socket disconnected
+2022-06-06 06:41:27,780 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+2022-06-06 06:41:27,811 - [MAIN] - INFO  - Fighting.Server.FightServer - Recompile Scripts: True
+2022-06-06 06:41:27,858 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+2022-06-06 06:41:27,858 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+2022-06-06 06:41:27,858 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+2022-06-06 06:41:27,858 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+2022-06-06 06:41:28,092 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+2022-06-06 06:41:28,264 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+2022-06-06 06:41:28,280 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+2022-06-06 06:41:28,624 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+2022-06-06 06:41:28,624 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+2022-06-06 06:41:28,655 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+2022-06-06 06:41:28,671 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+2022-06-06 06:41:28,686 - [MAIN] - INFO  - Fighting.Server.FightServer - WindMgr Init: True
+2022-06-06 06:41:28,714 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+2022-06-06 06:41:28,721 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+2022-06-06 06:41:28,727 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+2022-06-06 06:41:28,737 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+2022-06-06 06:41:34,202 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 10.1.0.4:51104
+2022-06-06 06:41:35,139 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 10.1.0.4:51105
+2022-06-06 06:42:15,891 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (10.1.0.4:51104), received bytes=0
+2022-06-06 06:42:15,922 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+2022-06-06 06:42:20,007 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from socket disconnected
+2022-06-06 06:46:54,652 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+2022-06-06 06:46:54,667 - [MAIN] - INFO  - Fighting.Server.FightServer - Recompile Scripts: True
+2022-06-06 06:46:54,714 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+2022-06-06 06:46:54,714 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+2022-06-06 06:46:54,714 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+2022-06-06 06:46:54,714 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+2022-06-06 06:46:54,902 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+2022-06-06 06:46:55,027 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+2022-06-06 06:46:55,042 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+2022-06-06 06:46:55,324 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+2022-06-06 06:46:55,339 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+2022-06-06 06:46:55,355 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+2022-06-06 06:46:55,370 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+2022-06-06 06:46:55,386 - [MAIN] - INFO  - Fighting.Server.FightServer - WindMgr Init: True
+2022-06-06 06:46:55,402 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+2022-06-06 06:46:55,402 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+2022-06-06 06:46:55,417 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+2022-06-06 06:46:55,417 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+2022-06-06 06:47:00,619 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 10.1.0.4:51250
+2022-06-06 06:47:01,557 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 10.1.0.4:51251
+2022-06-06 07:09:07,676 - [60] - ERROR - Fighting.Server.ServerClient - Room already exists:122.
+2022-06-06 08:41:02,286 - [58] - ERROR - Fighting.Server.ServerClient - Room already exists:122.
+2022-06-06 08:41:02,426 - [58] - ERROR - Fighting.Server.ServerClient - Room already exists:362.
+2022-06-06 12:01:51,447 - [49] - ERROR - Fighting.Server.ServerClient - Room already exists:985.
+2022-06-06 12:10:06,344 - [19] - ERROR - Fighting.Server.ServerClient - Room already exists:433.
+2022-06-06 12:25:35,922 - [62] - ERROR - Fighting.Server.ServerClient - Room already exists:433.
+2022-06-06 12:27:55,182 - [14] - ERROR - Fighting.Server.ServerClient - Room already exists:433.
+2022-06-06 12:47:24,553 - [20] - ERROR - Fighting.Server.ServerClient - Room already exists:433.
+2022-06-06 12:49:21,251 - [33] - ERROR - Fighting.Server.ServerClient - Room already exists:153.
+2022-06-06 12:51:00,842 - [25] - ERROR - Fighting.Server.ServerClient - Room already exists:570.
+2022-06-06 12:51:20,733 - [67] - ERROR - Fighting.Server.ServerClient - Room already exists:873.
+2022-06-06 13:57:48,816 - [48] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.PVPGame.RemovePlayer(IGamePlayer gp, Boolean IsKick) in C:\NEWGUN\Source Server\Game.Logic\PVPGame.cs:line 633
+   at Fighting.Server.Games.BattleGame.RemovePlayer(IGamePlayer gp, Boolean IsKick) in C:\NEWGUN\Source Server\Fighting.Server\Games\BattleGame.cs:line 54
+   at Fighting.Server.ServerClient.HandlePlayerExit(GSPacketIn pkg) in C:\NEWGUN\Source Server\Fighting.Server\ServerClient.cs:line 98
+   at Fighting.Server.ServerClient.OnRecvPacket(GSPacketIn pkg) in C:\NEWGUN\Source Server\Fighting.Server\ServerClient.cs:line 75
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in C:\NEWGUN\Source Server\Game.Base\Packets\StreamProcessor.cs:line 262
+2022-06-06 14:14:22,104 - [69] - ERROR - Fighting.Server.ServerClient - Room already exists:334.
+2022-06-06 15:03:13,700 - [59] - ERROR - Fighting.Server.ServerClient - Room already exists:931.
+2022-06-06 15:06:30,049 - [55] - ERROR - Fighting.Server.ServerClient - Room already exists:931.
+2022-06-06 18:08:42,052 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -13503 ms!
+2022-06-06 18:08:42,052 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -12464 ms!
+2022-06-06 18:08:42,052 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -11425 ms!
+2022-06-06 18:08:42,052 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -10385 ms!
+2022-06-06 18:08:42,052 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -9345 ms!
+2022-06-06 18:08:42,052 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -8305 ms!
+2022-06-06 18:08:42,052 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -7265 ms!
+2022-06-06 18:08:42,052 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -6225 ms!
+2022-06-06 18:08:42,052 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -5185 ms!
+2022-06-06 18:08:42,052 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -4145 ms!
+2022-06-06 18:08:42,052 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -3105 ms!
+2022-06-06 18:08:42,052 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -2065 ms!
+2022-06-06 18:08:42,052 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -1025 ms!
+2022-06-06 18:37:20,249 - [69] - ERROR - Fighting.Server.ServerClient - Room already exists:978.
+2022-06-06 19:36:56,876 - [11] - ERROR - Fighting.Server.ServerClient - Room already exists:826.
+2022-06-06 19:50:12,808 - [7] - ERROR - Fighting.Server.ServerClient - Room already exists:954.
+2022-06-06 19:53:00,413 - [22] - ERROR - Fighting.Server.ServerClient - Room already exists:123.
+2022-06-06 20:03:52,420 - [23] - ERROR - Fighting.Server.ServerClient - Room already exists:548.
+2022-06-06 20:17:59,699 - [10] - ERROR - Fighting.Server.ServerClient - Room already exists:147.
+2022-06-06 20:20:13,422 - [10] - ERROR - Fighting.Server.ServerClient - Room already exists:439.
+2022-06-06 20:34:52,982 - [45] - ERROR - Fighting.Server.ServerClient - Room already exists:871.
+2022-06-06 21:02:22,175 - [59] - ERROR - Fighting.Server.ServerClient - Room already exists:743.
+2022-06-06 21:08:33,813 - [10] - ERROR - Fighting.Server.ServerClient - Room already exists:868.
+2022-06-06 21:15:06,556 - [10] - ERROR - Fighting.Server.ServerClient - Room already exists:16.
+2022-06-06 21:24:53,318 - [37] - ERROR - Fighting.Server.ServerClient - Room already exists:551.
+2022-06-06 21:38:24,832 - [10] - ERROR - Fighting.Server.ServerClient - Room already exists:196.
+2022-06-06 21:41:07,350 - [59] - ERROR - Fighting.Server.ServerClient - Room already exists:106.
+2022-06-06 21:52:52,376 - [36] - ERROR - Fighting.Server.ServerClient - Room already exists:924.
+2022-06-06 21:56:27,350 - [44] - ERROR - Fighting.Server.ServerClient - Room already exists:646.
+2022-06-06 21:57:28,860 - [10] - ERROR - Fighting.Server.ServerClient - Room already exists:643.
+2022-06-06 21:57:53,064 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -6912 ms!
+2022-06-06 21:57:53,064 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -5874 ms!
+2022-06-06 21:57:53,079 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -4840 ms!
+2022-06-06 21:57:53,079 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -3801 ms!
+2022-06-06 21:57:53,079 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -2761 ms!
+2022-06-06 21:57:53,079 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -1721 ms!
+2022-06-06 22:14:46,842 - [36] - ERROR - Fighting.Server.ServerClient - Room already exists:500.
+2022-06-06 22:15:42,996 - [7] - ERROR - Fighting.Server.ServerClient - Room already exists:801.
+2022-06-06 22:20:55,998 - [7] - ERROR - Fighting.Server.ServerClient - Room already exists:509.
+2022-06-06 22:22:27,715 - [42] - ERROR - Fighting.Server.ServerClient - Room already exists:801.
+2022-06-06 22:25:44,263 - [23] - ERROR - Fighting.Server.ServerClient - Room already exists:881.
+2022-06-06 22:38:34,145 - [59] - ERROR - Fighting.Server.ServerClient - Room already exists:193.
+2022-06-06 22:40:33,703 - [28] - ERROR - Fighting.Server.ServerClient - Room already exists:879.
+2022-06-06 22:47:41,504 - [37] - ERROR - Fighting.Server.ServerClient - Room already exists:980.
+2022-06-06 22:48:46,243 - [59] - ERROR - Fighting.Server.ServerClient - Room already exists:135.
+2022-06-06 22:49:49,260 - [36] - ERROR - Fighting.Server.ServerClient - Room already exists:627.
+2022-06-06 22:55:22,261 - [7] - ERROR - Fighting.Server.ServerClient - Room already exists:146.
+2022-06-06 23:06:58,056 - [46] - ERROR - Fighting.Server.ServerClient - Room already exists:211.
+2022-06-06 23:10:36,306 - [36] - ERROR - Fighting.Server.ServerClient - Room already exists:44.
+2022-06-06 23:14:17,097 - [48] - ERROR - Fighting.Server.ServerClient - Room already exists:457.
+2022-06-06 23:24:20,111 - [22] - ERROR - Fighting.Server.ServerClient - Room already exists:146.
+2022-06-06 23:26:15,216 - [42] - ERROR - Fighting.Server.ServerClient - Room already exists:457.
+2022-06-06 23:29:18,551 - [59] - ERROR - Fighting.Server.ServerClient - Room already exists:633.
+2022-06-06 23:44:02,555 - [67] - ERROR - Fighting.Server.ServerClient - Room already exists:574.
+2022-06-06 23:53:54,446 - [9] - ERROR - Fighting.Server.ServerClient - Room already exists:778.
+2022-06-06 23:54:17,685 - [39] - ERROR - Fighting.Server.ServerClient - Room already exists:951.

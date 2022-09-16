@@ -1,0 +1,58 @@
+2022-06-06 07:09:07,676 - [60] - ERROR - Fighting.Server.ServerClient - Room already exists:122.
+2022-06-06 08:41:02,286 - [58] - ERROR - Fighting.Server.ServerClient - Room already exists:122.
+2022-06-06 08:41:02,426 - [58] - ERROR - Fighting.Server.ServerClient - Room already exists:362.
+2022-06-06 12:01:51,447 - [49] - ERROR - Fighting.Server.ServerClient - Room already exists:985.
+2022-06-06 12:10:06,344 - [19] - ERROR - Fighting.Server.ServerClient - Room already exists:433.
+2022-06-06 12:25:35,922 - [62] - ERROR - Fighting.Server.ServerClient - Room already exists:433.
+2022-06-06 12:27:55,182 - [14] - ERROR - Fighting.Server.ServerClient - Room already exists:433.
+2022-06-06 12:47:24,553 - [20] - ERROR - Fighting.Server.ServerClient - Room already exists:433.
+2022-06-06 12:49:21,251 - [33] - ERROR - Fighting.Server.ServerClient - Room already exists:153.
+2022-06-06 12:51:00,842 - [25] - ERROR - Fighting.Server.ServerClient - Room already exists:570.
+2022-06-06 12:51:20,733 - [67] - ERROR - Fighting.Server.ServerClient - Room already exists:873.
+2022-06-06 13:57:48,816 - [48] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.PVPGame.RemovePlayer(IGamePlayer gp, Boolean IsKick) in C:\NEWGUN\Source Server\Game.Logic\PVPGame.cs:line 633
+   at Fighting.Server.Games.BattleGame.RemovePlayer(IGamePlayer gp, Boolean IsKick) in C:\NEWGUN\Source Server\Fighting.Server\Games\BattleGame.cs:line 54
+   at Fighting.Server.ServerClient.HandlePlayerExit(GSPacketIn pkg) in C:\NEWGUN\Source Server\Fighting.Server\ServerClient.cs:line 98
+   at Fighting.Server.ServerClient.OnRecvPacket(GSPacketIn pkg) in C:\NEWGUN\Source Server\Fighting.Server\ServerClient.cs:line 75
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in C:\NEWGUN\Source Server\Game.Base\Packets\StreamProcessor.cs:line 262
+2022-06-06 14:14:22,104 - [69] - ERROR - Fighting.Server.ServerClient - Room already exists:334.
+2022-06-06 15:03:13,700 - [59] - ERROR - Fighting.Server.ServerClient - Room already exists:931.
+2022-06-06 15:06:30,049 - [55] - ERROR - Fighting.Server.ServerClient - Room already exists:931.
+2022-06-06 18:37:20,249 - [69] - ERROR - Fighting.Server.ServerClient - Room already exists:978.
+2022-06-06 19:36:56,876 - [11] - ERROR - Fighting.Server.ServerClient - Room already exists:826.
+2022-06-06 19:50:12,808 - [7] - ERROR - Fighting.Server.ServerClient - Room already exists:954.
+2022-06-06 19:53:00,413 - [22] - ERROR - Fighting.Server.ServerClient - Room already exists:123.
+2022-06-06 20:03:52,420 - [23] - ERROR - Fighting.Server.ServerClient - Room already exists:548.
+2022-06-06 20:17:59,699 - [10] - ERROR - Fighting.Server.ServerClient - Room already exists:147.
+2022-06-06 20:20:13,422 - [10] - ERROR - Fighting.Server.ServerClient - Room already exists:439.
+2022-06-06 20:34:52,982 - [45] - ERROR - Fighting.Server.ServerClient - Room already exists:871.
+2022-06-06 21:02:22,175 - [59] - ERROR - Fighting.Server.ServerClient - Room already exists:743.
+2022-06-06 21:08:33,813 - [10] - ERROR - Fighting.Server.ServerClient - Room already exists:868.
+2022-06-06 21:15:06,556 - [10] - ERROR - Fighting.Server.ServerClient - Room already exists:16.
+2022-06-06 21:24:53,318 - [37] - ERROR - Fighting.Server.ServerClient - Room already exists:551.
+2022-06-06 21:38:24,832 - [10] - ERROR - Fighting.Server.ServerClient - Room already exists:196.
+2022-06-06 21:41:07,350 - [59] - ERROR - Fighting.Server.ServerClient - Room already exists:106.
+2022-06-06 21:52:52,376 - [36] - ERROR - Fighting.Server.ServerClient - Room already exists:924.
+2022-06-06 21:56:27,350 - [44] - ERROR - Fighting.Server.ServerClient - Room already exists:646.
+2022-06-06 21:57:28,860 - [10] - ERROR - Fighting.Server.ServerClient - Room already exists:643.
+2022-06-06 22:14:46,842 - [36] - ERROR - Fighting.Server.ServerClient - Room already exists:500.
+2022-06-06 22:15:42,996 - [7] - ERROR - Fighting.Server.ServerClient - Room already exists:801.
+2022-06-06 22:20:55,998 - [7] - ERROR - Fighting.Server.ServerClient - Room already exists:509.
+2022-06-06 22:22:27,715 - [42] - ERROR - Fighting.Server.ServerClient - Room already exists:801.
+2022-06-06 22:25:44,263 - [23] - ERROR - Fighting.Server.ServerClient - Room already exists:881.
+2022-06-06 22:38:34,145 - [59] - ERROR - Fighting.Server.ServerClient - Room already exists:193.
+2022-06-06 22:40:33,703 - [28] - ERROR - Fighting.Server.ServerClient - Room already exists:879.
+2022-06-06 22:47:41,504 - [37] - ERROR - Fighting.Server.ServerClient - Room already exists:980.
+2022-06-06 22:48:46,243 - [59] - ERROR - Fighting.Server.ServerClient - Room already exists:135.
+2022-06-06 22:49:49,260 - [36] - ERROR - Fighting.Server.ServerClient - Room already exists:627.
+2022-06-06 22:55:22,261 - [7] - ERROR - Fighting.Server.ServerClient - Room already exists:146.
+2022-06-06 23:06:58,056 - [46] - ERROR - Fighting.Server.ServerClient - Room already exists:211.
+2022-06-06 23:10:36,306 - [36] - ERROR - Fighting.Server.ServerClient - Room already exists:44.
+2022-06-06 23:14:17,097 - [48] - ERROR - Fighting.Server.ServerClient - Room already exists:457.
+2022-06-06 23:24:20,111 - [22] - ERROR - Fighting.Server.ServerClient - Room already exists:146.
+2022-06-06 23:26:15,216 - [42] - ERROR - Fighting.Server.ServerClient - Room already exists:457.
+2022-06-06 23:29:18,551 - [59] - ERROR - Fighting.Server.ServerClient - Room already exists:633.
+2022-06-06 23:44:02,555 - [67] - ERROR - Fighting.Server.ServerClient - Room already exists:574.
+2022-06-06 23:53:54,446 - [9] - ERROR - Fighting.Server.ServerClient - Room already exists:778.
+2022-06-06 23:54:17,685 - [39] - ERROR - Fighting.Server.ServerClient - Room already exists:951.

@@ -1,0 +1,160 @@
+2022-07-06 07:06:57,985 - Client log: dataList: 20
+2022-07-06 07:06:58,049 - Client log: upCount: 0
+2022-07-06 07:06:58,049 - Client log: _countTxt 1: 
+2022-07-06 07:06:58,049 - Client log: _countTxt 2: 20
+2022-07-06 07:07:02,496 - Client log: dataList: 20
+2022-07-06 07:07:02,563 - Client log: upCount: 0
+2022-07-06 07:07:02,564 - Client log: _countTxt 1: 
+2022-07-06 07:07:02,564 - Client log: _countTxt 2: 20
+2022-07-06 07:07:09,311 - Client log: dataList: 20
+2022-07-06 07:07:09,377 - Client log: upCount: 1
+2022-07-06 07:07:09,377 - Client log: _countTxt 1: 20
+2022-07-06 07:07:09,377 - Client log: _countTxt 2: 19
+2022-07-06 07:07:11,090 - Client log: dataList: 20
+2022-07-06 07:07:11,156 - Client log: upCount: 2
+2022-07-06 07:07:11,156 - Client log: _countTxt 1: 19
+2022-07-06 07:07:11,156 - Client log: _countTxt 2: 18
+2022-07-06 07:07:12,094 - Client log: dataList: 20
+2022-07-06 07:07:12,161 - Client log: upCount: 3
+2022-07-06 07:07:12,161 - Client log: _countTxt 1: 18
+2022-07-06 07:07:12,161 - Client log: _countTxt 2: 17
+2022-07-06 07:07:12,628 - Client log: dataList: 20
+2022-07-06 07:07:12,695 - Client log: upCount: 4
+2022-07-06 07:07:12,695 - Client log: _countTxt 1: 17
+2022-07-06 07:07:12,695 - Client log: _countTxt 2: 16
+2022-07-06 07:07:12,785 - Client log: dataList: 20
+2022-07-06 07:07:12,852 - Client log: upCount: 5
+2022-07-06 07:07:12,852 - Client log: _countTxt 1: 16
+2022-07-06 07:07:12,852 - Client log: _countTxt 2: 15
+2022-07-06 07:07:12,937 - Client log: dataList: 20
+2022-07-06 07:07:13,007 - Client log: upCount: 6
+2022-07-06 07:07:13,008 - Client log: _countTxt 1: 15
+2022-07-06 07:07:13,008 - Client log: _countTxt 2: 14
+2022-07-06 07:07:13,170 - Client log: dataList: 20
+2022-07-06 07:07:13,238 - Client log: upCount: 7
+2022-07-06 07:07:13,238 - Client log: _countTxt 1: 14
+2022-07-06 07:07:13,238 - Client log: _countTxt 2: 13
+2022-07-06 07:07:13,457 - Client log: dataList: 20
+2022-07-06 07:07:13,525 - Client log: upCount: 8
+2022-07-06 07:07:13,525 - Client log: _countTxt 1: 13
+2022-07-06 07:07:13,525 - Client log: _countTxt 2: 12
+2022-07-06 07:07:13,684 - Client log: dataList: 20
+2022-07-06 07:07:13,751 - Client log: upCount: 9
+2022-07-06 07:07:13,751 - Client log: _countTxt 1: 12
+2022-07-06 07:07:13,751 - Client log: _countTxt 2: 11
+2022-07-06 07:07:14,037 - Client log: dataList: 20
+2022-07-06 07:07:14,106 - Client log: upCount: 10
+2022-07-06 07:07:14,106 - Client log: _countTxt 1: 11
+2022-07-06 07:07:14,106 - Client log: _countTxt 2: 10
+2022-07-06 07:07:14,309 - Client log: dataList: 20
+2022-07-06 07:07:14,375 - Client log: upCount: 11
+2022-07-06 07:07:14,375 - Client log: _countTxt 1: 10
+2022-07-06 07:07:14,375 - Client log: _countTxt 2: 9
+2022-07-06 07:07:14,852 - Client log: dataList: 20
+2022-07-06 07:07:14,919 - Client log: upCount: 12
+2022-07-06 07:07:14,919 - Client log: _countTxt 1: 9
+2022-07-06 07:07:14,919 - Client log: _countTxt 2: 8
+2022-07-06 07:07:15,077 - Client log: dataList: 20
+2022-07-06 07:07:15,144 - Client log: upCount: 13
+2022-07-06 07:07:15,144 - Client log: _countTxt 1: 8
+2022-07-06 07:07:15,144 - Client log: _countTxt 2: 7
+2022-07-06 07:07:15,395 - Client log: dataList: 20
+2022-07-06 07:07:15,461 - Client log: upCount: 14
+2022-07-06 07:07:15,461 - Client log: _countTxt 1: 7
+2022-07-06 07:07:15,461 - Client log: _countTxt 2: 6
+2022-07-06 07:07:15,638 - Client log: dataList: 20
+2022-07-06 07:07:15,704 - Client log: upCount: 15
+2022-07-06 07:07:15,704 - Client log: _countTxt 1: 6
+2022-07-06 07:07:15,704 - Client log: _countTxt 2: 5
+2022-07-06 07:07:15,824 - Client log: dataList: 20
+2022-07-06 07:07:15,891 - Client log: upCount: 16
+2022-07-06 07:07:15,891 - Client log: _countTxt 1: 5
+2022-07-06 07:07:15,891 - Client log: _countTxt 2: 4
+2022-07-06 07:07:16,007 - Client log: dataList: 20
+2022-07-06 07:07:16,073 - Client log: upCount: 17
+2022-07-06 07:07:16,073 - Client log: _countTxt 1: 4
+2022-07-06 07:07:16,073 - Client log: _countTxt 2: 3
+2022-07-06 07:07:16,771 - Client log: dataList: 20
+2022-07-06 07:07:16,837 - Client log: upCount: 18
+2022-07-06 07:07:16,837 - Client log: _countTxt 1: 3
+2022-07-06 07:07:16,837 - Client log: _countTxt 2: 2
+2022-07-06 07:07:17,053 - Client log: dataList: 20
+2022-07-06 07:07:17,122 - Client log: upCount: 19
+2022-07-06 07:07:17,122 - Client log: _countTxt 1: 2
+2022-07-06 07:07:17,122 - Client log: _countTxt 2: 1
+2022-07-06 07:07:17,302 - Client log: dataList: 20
+2022-07-06 07:07:17,371 - Client log: upCount: 20
+2022-07-06 07:07:17,371 - Client log: _countTxt 1: 1
+2022-07-06 07:07:17,371 - Client log: _countTxt 2: 0
+2022-07-06 09:33:42,173 - Client log: dataList: 20
+2022-07-06 09:33:42,244 - Client log: upCount: 0
+2022-07-06 09:33:42,244 - Client log: _countTxt 1: 
+2022-07-06 09:33:42,244 - Client log: _countTxt 2: 20
+2022-07-06 09:33:46,998 - Client log: dataList: 20
+2022-07-06 09:33:46,999 - Client log: upCount: 0
+2022-07-06 09:33:46,999 - Client log: _countTxt 1: 
+2022-07-06 09:33:46,999 - Client log: _countTxt 2: 20
+2022-07-06 09:33:56,186 - Client log: dataList: 20
+2022-07-06 09:33:56,265 - Client log: upCount: 1
+2022-07-06 09:33:56,265 - Client log: _countTxt 1: 20
+2022-07-06 09:33:56,265 - Client log: _countTxt 2: 19
+2022-07-06 09:33:56,478 - Client log: dataList: 20
+2022-07-06 09:33:56,550 - Client log: upCount: 2
+2022-07-06 09:33:56,550 - Client log: _countTxt 1: 19
+2022-07-06 09:33:56,550 - Client log: _countTxt 2: 18
+2022-07-06 09:33:56,664 - Client log: dataList: 20
+2022-07-06 09:33:56,735 - Client log: upCount: 3
+2022-07-06 09:33:56,735 - Client log: _countTxt 1: 18
+2022-07-06 09:33:56,735 - Client log: _countTxt 2: 17
+2022-07-06 09:33:56,735 - Client log: dataList: 20
+2022-07-06 09:33:56,735 - Client log: upCount: 4
+2022-07-06 09:33:56,735 - Client log: _countTxt 1: 17
+2022-07-06 09:33:56,735 - Client log: _countTxt 2: 16
+2022-07-06 09:33:56,935 - Client log: dataList: 20
+2022-07-06 09:33:57,007 - Client log: upCount: 5
+2022-07-06 09:33:57,007 - Client log: _countTxt 1: 16
+2022-07-06 09:33:57,007 - Client log: _countTxt 2: 15
+2022-07-06 09:33:57,102 - Client log: dataList: 20
+2022-07-06 09:33:57,104 - Client log: upCount: 6
+2022-07-06 09:33:57,104 - Client log: _countTxt 1: 15
+2022-07-06 09:33:57,104 - Client log: _countTxt 2: 14
+2022-07-06 09:33:57,188 - Client log: dataList: 20
+2022-07-06 09:33:57,259 - Client log: upCount: 7
+2022-07-06 09:33:57,259 - Client log: _countTxt 1: 14
+2022-07-06 09:33:57,259 - Client log: _countTxt 2: 13
+2022-07-06 09:33:57,365 - Client log: dataList: 20
+2022-07-06 09:33:57,435 - Client log: upCount: 8
+2022-07-06 09:33:57,435 - Client log: _countTxt 1: 13
+2022-07-06 09:33:57,435 - Client log: _countTxt 2: 12
+2022-07-06 09:33:57,536 - Client log: dataList: 20
+2022-07-06 09:33:57,608 - Client log: upCount: 9
+2022-07-06 09:33:57,609 - Client log: _countTxt 1: 12
+2022-07-06 09:33:57,609 - Client log: _countTxt 2: 11
+2022-07-06 09:33:57,711 - Client log: dataList: 20
+2022-07-06 09:33:57,781 - Client log: upCount: 10
+2022-07-06 09:33:57,781 - Client log: _countTxt 1: 11
+2022-07-06 09:33:57,781 - Client log: _countTxt 2: 10
+2022-07-06 09:33:57,883 - Client log: dataList: 20
+2022-07-06 09:33:57,955 - Client log: upCount: 11
+2022-07-06 09:33:57,956 - Client log: _countTxt 1: 10
+2022-07-06 09:33:57,956 - Client log: _countTxt 2: 9
+2022-07-06 09:33:58,076 - Client log: dataList: 20
+2022-07-06 09:33:58,148 - Client log: upCount: 12
+2022-07-06 09:33:58,148 - Client log: _countTxt 1: 9
+2022-07-06 09:33:58,148 - Client log: _countTxt 2: 8
+2022-07-06 09:52:51,264 - Client log: dataList: 20
+2022-07-06 09:52:51,270 - Client log: upCount: 0
+2022-07-06 09:52:51,302 - Client log: _countTxt 1: 
+2022-07-06 09:52:51,351 - Client log: _countTxt 2: 20
+2022-07-06 10:01:07,749 - Client log: dataList: 20
+2022-07-06 10:01:07,849 - Client log: upCount: 0
+2022-07-06 10:01:07,891 - Client log: _countTxt 1: 
+2022-07-06 10:01:07,920 - Client log: _countTxt 2: 20
+2022-07-06 10:23:24,672 - Client log: dataList: 20
+2022-07-06 10:23:24,741 - Client log: upCount: 12
+2022-07-06 10:23:24,741 - Client log: _countTxt 1: 
+2022-07-06 10:23:24,741 - Client log: _countTxt 2: 8
+2022-07-06 10:26:32,594 - Client log: dataList: 20
+2022-07-06 10:26:32,638 - Client log: upCount: 0
+2022-07-06 10:26:32,688 - Client log: _countTxt 1: 
+2022-07-06 10:26:32,735 - Client log: _countTxt 2: 20

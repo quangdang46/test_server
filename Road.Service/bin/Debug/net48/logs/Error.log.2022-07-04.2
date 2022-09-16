@@ -1,0 +1,12 @@
+2022-07-04 23:35:37,363 - [20] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserDeleteMailHandler  client: 113.161.73.171:64867)
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Game.Server.Packets.Client.UserDeleteMailHandler.GetAnnex(String value, GamePlayer player) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\UserDeleteMailHandler.cs:line 61
+   at Game.Server.Packets.Client.UserDeleteMailHandler.GetAnnex(String value) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\UserDeleteMailHandler.cs:line 51
+   at Game.Server.Packets.Client.UserDeleteMailHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\UserDeleteMailHandler.cs:line 89
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Packets\PacketProcessor.cs:line 87
+2022-07-04 23:35:37,385 - [20] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 18 01 33 00 70 00 00 00 02 00 00 00 00   q....3.p........
+0010: 00 00 00 00 00 00 00 4A                           .......J        
+

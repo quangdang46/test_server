@@ -1,0 +1,81 @@
+2022-07-06 12:10:16,505 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+2022-07-06 12:10:16,522 - [MAIN] - INFO  - Fighting.Server.FightServer - Recompile Scripts: True
+2022-07-06 12:10:16,553 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+2022-07-06 12:10:16,553 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+2022-07-06 12:10:16,554 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+2022-07-06 12:10:16,555 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+2022-07-06 12:10:16,788 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+2022-07-06 12:10:16,991 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+2022-07-06 12:10:17,002 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+2022-07-06 12:10:17,232 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+2022-07-06 12:10:17,238 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+2022-07-06 12:10:17,253 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+2022-07-06 12:10:17,275 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+2022-07-06 12:10:17,300 - [MAIN] - INFO  - Fighting.Server.FightServer - WindMgr Init: True
+2022-07-06 12:10:17,310 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+2022-07-06 12:10:17,316 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+2022-07-06 12:10:17,330 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+2022-07-06 12:10:17,347 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+2022-07-06 12:10:41,294 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 10.4.0.4:55577
+2022-07-06 12:10:42,853 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 10.4.0.4:55578
+2022-07-06 12:11:22,366 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-06 12:12:58,190 - [5] - ERROR - Game.Logic.BaseGame - Map update error:
+System.DivideByZeroException: Attempted to divide by zero.
+   at Game.Logic.PVPGame.LeagueSystem(Player p, Boolean isWin) in C:\NEWGUN\Source Server\Game.Logic\PVPGame.cs:line 861
+   at Game.Logic.PVPGame.GameOver() in C:\NEWGUN\Source Server\Game.Logic\PVPGame.cs:line 487
+   at Game.Logic.Actions.CheckPVPGameStateAction.Execute(BaseGame game, Int64 tick) in C:\NEWGUN\Source Server\Game.Logic\Actions\CheckPVPGameStateAction.cs:line 51
+   at Game.Logic.BaseGame.Update(Int64 tick) in C:\NEWGUN\Source Server\Game.Logic\BaseGame.cs:line 3199
+2022-07-06 12:14:52,360 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-06 12:16:29,535 - [5] - ERROR - Game.Logic.BaseGame - Map update error:
+System.DivideByZeroException: Attempted to divide by zero.
+   at Game.Logic.PVPGame.LeagueSystem(Player p, Boolean isWin) in C:\NEWGUN\Source Server\Game.Logic\PVPGame.cs:line 861
+   at Game.Logic.PVPGame.GameOver() in C:\NEWGUN\Source Server\Game.Logic\PVPGame.cs:line 487
+   at Game.Logic.Actions.CheckPVPGameStateAction.Execute(BaseGame game, Int64 tick) in C:\NEWGUN\Source Server\Game.Logic\Actions\CheckPVPGameStateAction.cs:line 51
+   at Game.Logic.BaseGame.Update(Int64 tick) in C:\NEWGUN\Source Server\Game.Logic\BaseGame.cs:line 3199
+2022-07-06 12:16:29,565 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -48059 ms!
+2022-07-06 12:16:29,566 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -47019 ms!
+2022-07-06 12:16:29,567 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -45979 ms!
+2022-07-06 12:16:29,570 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -44939 ms!
+2022-07-06 12:16:29,572 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -43899 ms!
+2022-07-06 12:16:29,573 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -42859 ms!
+2022-07-06 12:16:29,573 - [5] -2022-07-06 12:38:11,214 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+2022-07-06 12:38:11,233 - [MAIN] - INFO  - Fighting.Server.FightServer - Recompile Scripts: True
+2022-07-06 12:38:11,272 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+2022-07-06 12:38:11,272 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+2022-07-06 12:38:11,272 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+2022-07-06 12:38:11,273 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+2022-07-06 12:38:11,490 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+2022-07-06 12:38:11,691 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+2022-07-06 12:38:11,702 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+2022-07-06 12:38:11,932 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+2022-07-06 12:38:11,937 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+2022-07-06 12:38:12,018 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+2022-07-06 12:38:12,072 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+2022-07-06 12:38:12,136 - [MAIN] - INFO  - Fighting.Server.FightServer - WindMgr Init: True
+2022-07-06 12:38:12,161 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+2022-07-06 12:38:12,177 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+2022-07-06 12:38:12,188 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+2022-07-06 12:38:12,239 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+2022-07-06 12:38:37,251 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 10.4.0.4:55801
+2022-07-06 12:38:38,842 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 10.4.0.4:55803
+2022-07-06 12:41:17,251 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-06 12:42:35,624 - [5] - ERROR - Game.Logic.BaseGame - Map update error:
+System.DivideByZeroException: Attempted to divide by zero.
+   at Game.Logic.PVPGame.LeagueSystem(Player p, Boolean isWin) in C:\NEWGUN\Source Server\Game.Logic\PVPGame.cs:line 863
+   at Game.Logic.PVPGame.GameOver() in C:\NEWGUN\Source Server\Game.Logic\PVPGame.cs:line 487
+   at Game.Logic.Actions.CheckPVPGameStateAction.Execute(BaseGame game, Int64 tick) in C:\NEWGUN\Source Server\Game.Logic\Actions\CheckPVPGameStateAction.cs:line 51
+   at Game.Logic.BaseGame.Update(Int64 tick) in C:\NEWGUN\Source Server\Game.Logic\BaseGame.cs:line 3199
+2022-07-06 12:42:35,647 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -42737 ms!
+2022-07-06 12:42:35,648 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -41697 ms!
+2022-07-06 12:42:35,650 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -40658 ms!
+2022-07-06 12:42:35,651 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -39618 ms!
+2022-07-06 12:42:35,651 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -38578 ms!
+2022-07-06 12:42:35,652 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -37538 ms!
+2022-07-06 12:42:35,656 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -36498 ms!
+2022-07-06 12:42:35,657 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -35458 ms!
+2022-07-06 12:42:35,658 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -34418 ms!
+2022-07-06 12:42:35,659 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -33378 ms!
+2022-07-06 12:42:35,660 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -32338 ms!
+2022-07-06 12:42:35,662 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -31298 ms!
+2022-07-06 12:42:35,664 - [5] - WARN  - Fighting.Server.Games.GameMgr - Room Mgr is delay -30258 ms!
+2022-07-06 12:42:35,666 - [5] - WARN  - Fig

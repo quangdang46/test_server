@@ -1,0 +1,23 @@
+2022-07-19 10:27:33,060 - [MAIN] - INFO  - Fighting.Server.FightServer - InitSocket Port:9208: True
+2022-07-19 10:27:33,092 - [MAIN] - INFO  - Fighting.Server.FightServer - Recompile Scripts: True
+2022-07-19 10:27:33,123 - [MAIN] - INFO  - Fighting.Server.FightServer - Registering global event handlers: true
+2022-07-19 10:27:33,123 - [MAIN] - INFO  - Fighting.Server.FightServer - Script components: True
+2022-07-19 10:27:33,123 - [MAIN] - INFO  - Fighting.Server.FightServer - RoomMgr.Setup: True
+2022-07-19 10:27:33,123 - [MAIN] - INFO  - Fighting.Server.FightServer - GameMgr.Setup: True
+2022-07-19 10:27:33,342 - [MAIN] - INFO  - Fighting.Server.FightServer - MapMgr Init: True
+2022-07-19 10:27:33,576 - [MAIN] - INFO  - Fighting.Server.FightServer - ItemMgr Init: True
+2022-07-19 10:27:33,592 - [MAIN] - INFO  - Fighting.Server.FightServer - PropItemMgr Init: True
+2022-07-19 10:27:33,842 - [MAIN] - INFO  - Fighting.Server.FightServer - BallMgr Init: True
+2022-07-19 10:27:33,842 - [MAIN] - INFO  - Fighting.Server.FightServer - BallConfigMgr Init: True
+2022-07-19 10:27:33,873 - [MAIN] - INFO  - Fighting.Server.FightServer - DropMgr Init: True
+2022-07-19 10:27:33,889 - [MAIN] - INFO  - Fighting.Server.FightServer - NPCInfoMgr Init: True
+2022-07-19 10:27:33,904 - [MAIN] - INFO  - Fighting.Server.FightServer - WindMgr Init: True
+2022-07-19 10:27:33,920 - [MAIN] - INFO  - Fighting.Server.FightServer - LanguageMgr Init: True
+2022-07-19 10:27:33,935 - [MAIN] - INFO  - Game.Logic.Spells.SpellMgr - SpellMgr: Loaded 15 spell handlers from GameServer Assembly!
+2022-07-19 10:27:33,935 - [MAIN] - INFO  - Fighting.Server.FightServer - base.Start(): True
+2022-07-19 10:27:33,951 - [MAIN] - INFO  - Fighting.Server.FightServer - GameServer is now open for connections!
+2022-07-19 10:27:37,733 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 10.1.0.4:62698
+2022-07-19 10:27:38,373 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from 10.1.0.4:62699
+2022-07-19 11:05:32,814 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (10.1.0.4:62698), received bytes=0
+2022-07-19 11:05:34,486 - [3] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+2022-07-19 11:05:35,518 - [3] - INFO  - Game.Base.BaseServer - Incoming connection from socket disconnected

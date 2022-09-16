@@ -1,0 +1,45 @@
+2022-07-18 00:22:11,553 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 00:23:26,550 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 00:25:51,564 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 00:51:21,562 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 01:09:36,585 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 02:30:11,653 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 04:23:01,743 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 04:41:16,733 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 04:47:01,747 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 05:03:31,745 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 06:17:16,829 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 06:29:06,829 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 06:35:06,840 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 06:45:41,838 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 06:47:21,843 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 06:48:51,845 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 06:50:41,827 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 06:54:21,853 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 06:56:31,854 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 06:58:26,848 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 07:05:11,859 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 07:06:41,849 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 07:41:46,892 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 07:45:11,891 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 07:50:16,889 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 07:51:21,874 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 07:54:46,876 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 07:58:41,892 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 08:01:51,909 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 08:05:46,886 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 08:33:31,932 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 08:36:41,930 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 08:38:36,916 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 08:40:11,926 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 08:42:41,925 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 08:43:51,934 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 08:45:21,936 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 08:48:06,934 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 08:50:01,929 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 08:51:16,921 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 08:52:56,920 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 08:54:26,933 - [4] - INFO  - Bussiness.GameProperties - Refreshing game properties!
+2022-07-18 09:11:35,181 - [46] - INFO  - Game.Base.BaseClient - Disconnecting client (10.4.0.4:52376), received bytes=0
+2022-07-18 09:12:09,219 - [105] - INFO  - Game.Base.BaseClient - Disconnecting client (not connected), received bytes=0
+2022-07-18 09:25:09,752 - [95] - INFO  - Game.Base.BaseServer - Incoming connection from socket disconnected

@@ -1,0 +1,16 @@
+2022-07-20 22:40:03,233 - [MAIN] - ERROR - Game.Server.GameServer - Cant parse other login server!
+2022-07-20 22:41:10,435 - [19] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Lâm -> to State 2
+2022-07-20 22:42:17,332 - [19] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Lâm -> to State 2
+2022-07-20 22:47:40,729 - [34] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Lâm -> to State 2
+2022-07-20 22:47:51,657 - [43] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Xiath -> to State 2
+2022-07-20 22:51:19,826 - [34] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Xiath -> to State 2
+2022-07-20 22:53:37,770 - [66] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Xiath -> to State 2
+2022-07-20 22:54:25,693 - [64] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Xiath -> to State 2
+2022-07-20 22:57:53,724 - [75] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Xiath -> to State 2
+2022-07-20 23:01:31,423 - [76] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Lâm -> to State 2
+2022-07-20 23:02:38,786 - [76] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Xiath -> to State 2
+2022-07-20 23:03:23,191 - [84] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Xiath -> to State 2
+2022-07-20 23:04:01,334 - [76] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Lâm -> to State 2
+2022-07-20 23:04:47,208 - [76] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Xiath -> to State 2
+2022-07-20 23:07:43,063 - [121] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Xiath -> to State 2
+2022-07-20 23:08:27,231 - [120] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - Xiath -> to State 2

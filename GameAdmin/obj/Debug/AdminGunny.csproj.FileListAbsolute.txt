@@ -1,0 +1,267 @@
+E:\Backup KhanhLam\SourceTeam\NewSource\GameAdmin\bin\AdminGunny.dll.config
+E:\Backup KhanhLam\SourceTeam\NewSource\GameAdmin\bin\AdminGunny.dll
+E:\Backup KhanhLam\SourceTeam\NewSource\GameAdmin\bin\AdminGunny.pdb
+E:\Backup KhanhLam\SourceTeam\NewSource\GameAdmin\bin\Bussiness.dll
+E:\Backup KhanhLam\SourceTeam\NewSource\GameAdmin\bin\log4net.dll
+E:\Backup KhanhLam\SourceTeam\NewSource\GameAdmin\bin\SqlDataProvider.dll
+E:\Backup KhanhLam\SourceTeam\NewSource\GameAdmin\bin\Game.Base.dll
+E:\Backup KhanhLam\SourceTeam\NewSource\GameAdmin\bin\protobuf-net.Core.dll
+E:\Backup KhanhLam\SourceTeam\NewSource\GameAdmin\bin\zlib.net.dll
+E:\Backup KhanhLam\SourceTeam\NewSource\GameAdmin\bin\protobuf-net.dll
+E:\Backup KhanhLam\SourceTeam\NewSource\GameAdmin\bin\System.Memory.dll
+E:\Backup KhanhLam\SourceTeam\NewSource\GameAdmin\bin\System.Buffers.dll
+E:\Backup KhanhLam\SourceTeam\NewSource\GameAdmin\bin\System.Collections.Immutable.dll
+E:\Backup KhanhLam\SourceTeam\NewSource\GameAdmin\bin\System.Numerics.Vectors.dll
+E:\Backup KhanhLam\SourceTeam\NewSource\GameAdmin\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Backup KhanhLam\SourceTeam\NewSource\GameAdmin\bin\Bussiness.pdb
+E:\Backup KhanhLam\SourceTeam\NewSource\GameAdmin\bin\SqlDataProvider.pdb
+E:\Backup KhanhLam\SourceTeam\NewSource\GameAdmin\bin\log4net.xml
+E:\Backup KhanhLam\SourceTeam\NewSource\GameAdmin\bin\Game.Base.pdb
+E:\Backup KhanhLam\SourceTeam\NewSource\GameAdmin\obj\Debug\AdminGunny.csproj.AssemblyReference.cache
+E:\Backup KhanhLam\SourceTeam\NewSource\GameAdmin\obj\Debug\AdminGunny.csproj.CoreCompileInputs.cache
+E:\Backup KhanhLam\SourceTeam\NewSource\GameAdmin\obj\Debug\AdminGunny.csproj.CopyComplete
+E:\Backup KhanhLam\SourceTeam\NewSource\GameAdmin\obj\Debug\AdminGunny.dll
+E:\Backup KhanhLam\SourceTeam\NewSource\GameAdmin\obj\Debug\AdminGunny.pdb
+C:\Users\Administrator\Desktop\Source sv 24-11\Source1-12\GameAdmin\bin\AdminGunny.dll.config
+C:\Users\Administrator\Desktop\Source sv 24-11\Source1-12\GameAdmin\bin\AdminGunny.dll
+C:\Users\Administrator\Desktop\Source sv 24-11\Source1-12\GameAdmin\bin\AdminGunny.pdb
+C:\Users\Administrator\Desktop\Source sv 24-11\Source1-12\GameAdmin\bin\Bussiness.dll
+C:\Users\Administrator\Desktop\Source sv 24-11\Source1-12\GameAdmin\bin\log4net.dll
+C:\Users\Administrator\Desktop\Source sv 24-11\Source1-12\GameAdmin\bin\SqlDataProvider.dll
+C:\Users\Administrator\Desktop\Source sv 24-11\Source1-12\GameAdmin\bin\Game.Base.dll
+C:\Users\Administrator\Desktop\Source sv 24-11\Source1-12\GameAdmin\bin\protobuf-net.Core.dll
+C:\Users\Administrator\Desktop\Source sv 24-11\Source1-12\GameAdmin\bin\zlib.net.dll
+C:\Users\Administrator\Desktop\Source sv 24-11\Source1-12\GameAdmin\bin\protobuf-net.dll
+C:\Users\Administrator\Desktop\Source sv 24-11\Source1-12\GameAdmin\bin\System.Memory.dll
+C:\Users\Administrator\Desktop\Source sv 24-11\Source1-12\GameAdmin\bin\System.Buffers.dll
+C:\Users\Administrator\Desktop\Source sv 24-11\Source1-12\GameAdmin\bin\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\Source sv 24-11\Source1-12\GameAdmin\bin\System.Numerics.Vectors.dll
+C:\Users\Administrator\Desktop\Source sv 24-11\Source1-12\GameAdmin\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\Source sv 24-11\Source1-12\GameAdmin\bin\Bussiness.pdb
+C:\Users\Administrator\Desktop\Source sv 24-11\Source1-12\GameAdmin\bin\SqlDataProvider.pdb
+C:\Users\Administrator\Desktop\Source sv 24-11\Source1-12\GameAdmin\bin\log4net.xml
+C:\Users\Administrator\Desktop\Source sv 24-11\Source1-12\GameAdmin\bin\Game.Base.pdb
+C:\Users\Administrator\Desktop\Source sv 24-11\Source1-12\GameAdmin\obj\Debug\AdminGunny.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Source sv 24-11\Source1-12\GameAdmin\obj\Debug\AdminGunny.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Source sv 24-11\Source1-12\GameAdmin\obj\Debug\AdminGunny.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Source sv 24-11\Source1-12\GameAdmin\obj\Debug\AdminGunny.dll
+C:\Users\Administrator\Desktop\Source sv 24-11\Source1-12\GameAdmin\obj\Debug\AdminGunny.pdb
+G:\1.Gunny Project\Source\GameAdmin\bin\AdminGunny.dll.config
+G:\1.Gunny Project\Source\GameAdmin\bin\AdminGunny.dll
+G:\1.Gunny Project\Source\GameAdmin\bin\AdminGunny.pdb
+G:\1.Gunny Project\Source\GameAdmin\bin\Bussiness.dll
+G:\1.Gunny Project\Source\GameAdmin\bin\log4net.dll
+G:\1.Gunny Project\Source\GameAdmin\bin\SqlDataProvider.dll
+G:\1.Gunny Project\Source\GameAdmin\bin\Game.Base.dll
+G:\1.Gunny Project\Source\GameAdmin\bin\protobuf-net.Core.dll
+G:\1.Gunny Project\Source\GameAdmin\bin\zlib.net.dll
+G:\1.Gunny Project\Source\GameAdmin\bin\protobuf-net.dll
+G:\1.Gunny Project\Source\GameAdmin\bin\System.Memory.dll
+G:\1.Gunny Project\Source\GameAdmin\bin\System.Buffers.dll
+G:\1.Gunny Project\Source\GameAdmin\bin\System.Collections.Immutable.dll
+G:\1.Gunny Project\Source\GameAdmin\bin\System.Numerics.Vectors.dll
+G:\1.Gunny Project\Source\GameAdmin\bin\System.Runtime.CompilerServices.Unsafe.dll
+G:\1.Gunny Project\Source\GameAdmin\bin\Bussiness.pdb
+G:\1.Gunny Project\Source\GameAdmin\bin\SqlDataProvider.pdb
+G:\1.Gunny Project\Source\GameAdmin\bin\log4net.xml
+G:\1.Gunny Project\Source\GameAdmin\bin\Game.Base.pdb
+G:\1.Gunny Project\Source\GameAdmin\obj\Debug\AdminGunny.csproj.AssemblyReference.cache
+G:\1.Gunny Project\Source\GameAdmin\obj\Debug\AdminGunny.csproj.CoreCompileInputs.cache
+G:\1.Gunny Project\Source\GameAdmin\obj\Debug\AdminGunny.csproj.CopyComplete
+G:\1.Gunny Project\Source\GameAdmin\obj\Debug\AdminGunny.dll
+G:\1.Gunny Project\Source\GameAdmin\obj\Debug\AdminGunny.pdb
+C:\Users\Administrator\Desktop\Source8-12\GameAdmin\bin\AdminGunny.dll.config
+C:\Users\Administrator\Desktop\Source8-12\GameAdmin\bin\AdminGunny.dll
+C:\Users\Administrator\Desktop\Source8-12\GameAdmin\bin\AdminGunny.pdb
+C:\Users\Administrator\Desktop\Source8-12\GameAdmin\bin\Bussiness.dll
+C:\Users\Administrator\Desktop\Source8-12\GameAdmin\bin\log4net.dll
+C:\Users\Administrator\Desktop\Source8-12\GameAdmin\bin\SqlDataProvider.dll
+C:\Users\Administrator\Desktop\Source8-12\GameAdmin\bin\Game.Base.dll
+C:\Users\Administrator\Desktop\Source8-12\GameAdmin\bin\protobuf-net.Core.dll
+C:\Users\Administrator\Desktop\Source8-12\GameAdmin\bin\zlib.net.dll
+C:\Users\Administrator\Desktop\Source8-12\GameAdmin\bin\protobuf-net.dll
+C:\Users\Administrator\Desktop\Source8-12\GameAdmin\bin\System.Memory.dll
+C:\Users\Administrator\Desktop\Source8-12\GameAdmin\bin\System.Buffers.dll
+C:\Users\Administrator\Desktop\Source8-12\GameAdmin\bin\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\Source8-12\GameAdmin\bin\System.Numerics.Vectors.dll
+C:\Users\Administrator\Desktop\Source8-12\GameAdmin\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\Source8-12\GameAdmin\bin\Bussiness.pdb
+C:\Users\Administrator\Desktop\Source8-12\GameAdmin\bin\SqlDataProvider.pdb
+C:\Users\Administrator\Desktop\Source8-12\GameAdmin\bin\log4net.xml
+C:\Users\Administrator\Desktop\Source8-12\GameAdmin\bin\Game.Base.pdb
+C:\Users\Administrator\Desktop\Source8-12\GameAdmin\obj\Debug\AdminGunny.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Source8-12\GameAdmin\obj\Debug\AdminGunny.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Source8-12\GameAdmin\obj\Debug\AdminGunny.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Source8-12\GameAdmin\obj\Debug\AdminGunny.dll
+C:\Users\Administrator\Desktop\Source8-12\GameAdmin\obj\Debug\AdminGunny.pdb
+H:\1.Gunny Project\Source\GameAdmin\bin\AdminGunny.dll.config
+H:\1.Gunny Project\Source\GameAdmin\bin\AdminGunny.dll
+H:\1.Gunny Project\Source\GameAdmin\bin\AdminGunny.pdb
+H:\1.Gunny Project\Source\GameAdmin\bin\Bussiness.dll
+H:\1.Gunny Project\Source\GameAdmin\bin\log4net.dll
+H:\1.Gunny Project\Source\GameAdmin\bin\SqlDataProvider.dll
+H:\1.Gunny Project\Source\GameAdmin\bin\Game.Base.dll
+H:\1.Gunny Project\Source\GameAdmin\bin\protobuf-net.Core.dll
+H:\1.Gunny Project\Source\GameAdmin\bin\zlib.net.dll
+H:\1.Gunny Project\Source\GameAdmin\bin\protobuf-net.dll
+H:\1.Gunny Project\Source\GameAdmin\bin\System.Memory.dll
+H:\1.Gunny Project\Source\GameAdmin\bin\System.Buffers.dll
+H:\1.Gunny Project\Source\GameAdmin\bin\System.Collections.Immutable.dll
+H:\1.Gunny Project\Source\GameAdmin\bin\System.Numerics.Vectors.dll
+H:\1.Gunny Project\Source\GameAdmin\bin\System.Runtime.CompilerServices.Unsafe.dll
+H:\1.Gunny Project\Source\GameAdmin\bin\Bussiness.pdb
+H:\1.Gunny Project\Source\GameAdmin\bin\SqlDataProvider.pdb
+H:\1.Gunny Project\Source\GameAdmin\bin\log4net.xml
+H:\1.Gunny Project\Source\GameAdmin\bin\Game.Base.pdb
+H:\1.Gunny Project\Source\GameAdmin\obj\Debug\AdminGunny.csproj.AssemblyReference.cache
+H:\1.Gunny Project\Source\GameAdmin\obj\Debug\AdminGunny.csproj.CoreCompileInputs.cache
+H:\1.Gunny Project\Source\GameAdmin\obj\Debug\AdminGunny.csproj.CopyComplete
+H:\1.Gunny Project\Source\GameAdmin\obj\Debug\AdminGunny.dll
+H:\1.Gunny Project\Source\GameAdmin\obj\Debug\AdminGunny.pdb
+C:\Users\Administrator\Desktop\Source 26-12\GameAdmin\bin\AdminGunny.dll.config
+C:\Users\Administrator\Desktop\Source 26-12\GameAdmin\bin\AdminGunny.dll
+C:\Users\Administrator\Desktop\Source 26-12\GameAdmin\bin\AdminGunny.pdb
+C:\Users\Administrator\Desktop\Source 26-12\GameAdmin\bin\Bussiness.dll
+C:\Users\Administrator\Desktop\Source 26-12\GameAdmin\bin\log4net.dll
+C:\Users\Administrator\Desktop\Source 26-12\GameAdmin\bin\SqlDataProvider.dll
+C:\Users\Administrator\Desktop\Source 26-12\GameAdmin\bin\Game.Base.dll
+C:\Users\Administrator\Desktop\Source 26-12\GameAdmin\bin\protobuf-net.Core.dll
+C:\Users\Administrator\Desktop\Source 26-12\GameAdmin\bin\zlib.net.dll
+C:\Users\Administrator\Desktop\Source 26-12\GameAdmin\bin\protobuf-net.dll
+C:\Users\Administrator\Desktop\Source 26-12\GameAdmin\bin\System.Memory.dll
+C:\Users\Administrator\Desktop\Source 26-12\GameAdmin\bin\System.Buffers.dll
+C:\Users\Administrator\Desktop\Source 26-12\GameAdmin\bin\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\Source 26-12\GameAdmin\bin\System.Numerics.Vectors.dll
+C:\Users\Administrator\Desktop\Source 26-12\GameAdmin\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\Source 26-12\GameAdmin\bin\Bussiness.pdb
+C:\Users\Administrator\Desktop\Source 26-12\GameAdmin\bin\SqlDataProvider.pdb
+C:\Users\Administrator\Desktop\Source 26-12\GameAdmin\bin\log4net.xml
+C:\Users\Administrator\Desktop\Source 26-12\GameAdmin\bin\Game.Base.pdb
+C:\Users\Administrator\Desktop\Source 26-12\GameAdmin\obj\Debug\AdminGunny.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Source 26-12\GameAdmin\obj\Debug\AdminGunny.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Source 26-12\GameAdmin\obj\Debug\AdminGunny.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Source 26-12\GameAdmin\obj\Debug\AdminGunny.dll
+C:\Users\Administrator\Desktop\Source 26-12\GameAdmin\obj\Debug\AdminGunny.pdb
+H:\1.Gunny Project\Source ManhQuynh\GameAdmin\bin\AdminGunny.dll.config
+H:\1.Gunny Project\Source ManhQuynh\GameAdmin\bin\AdminGunny.dll
+H:\1.Gunny Project\Source ManhQuynh\GameAdmin\bin\AdminGunny.pdb
+H:\1.Gunny Project\Source ManhQuynh\GameAdmin\bin\Bussiness.dll
+H:\1.Gunny Project\Source ManhQuynh\GameAdmin\bin\log4net.dll
+H:\1.Gunny Project\Source ManhQuynh\GameAdmin\bin\SqlDataProvider.dll
+H:\1.Gunny Project\Source ManhQuynh\GameAdmin\bin\Game.Base.dll
+H:\1.Gunny Project\Source ManhQuynh\GameAdmin\bin\protobuf-net.Core.dll
+H:\1.Gunny Project\Source ManhQuynh\GameAdmin\bin\zlib.net.dll
+H:\1.Gunny Project\Source ManhQuynh\GameAdmin\bin\protobuf-net.dll
+H:\1.Gunny Project\Source ManhQuynh\GameAdmin\bin\System.Memory.dll
+H:\1.Gunny Project\Source ManhQuynh\GameAdmin\bin\System.Buffers.dll
+H:\1.Gunny Project\Source ManhQuynh\GameAdmin\bin\System.Collections.Immutable.dll
+H:\1.Gunny Project\Source ManhQuynh\GameAdmin\bin\System.Numerics.Vectors.dll
+H:\1.Gunny Project\Source ManhQuynh\GameAdmin\bin\System.Runtime.CompilerServices.Unsafe.dll
+H:\1.Gunny Project\Source ManhQuynh\GameAdmin\bin\Bussiness.pdb
+H:\1.Gunny Project\Source ManhQuynh\GameAdmin\bin\SqlDataProvider.pdb
+H:\1.Gunny Project\Source ManhQuynh\GameAdmin\bin\log4net.xml
+H:\1.Gunny Project\Source ManhQuynh\GameAdmin\bin\Game.Base.pdb
+H:\1.Gunny Project\Source ManhQuynh\GameAdmin\obj\Debug\AdminGunny.csproj.AssemblyReference.cache
+H:\1.Gunny Project\Source ManhQuynh\GameAdmin\obj\Debug\AdminGunny.csproj.CoreCompileInputs.cache
+H:\1.Gunny Project\Source ManhQuynh\GameAdmin\obj\Debug\AdminGunny.csproj.CopyComplete
+H:\1.Gunny Project\Source ManhQuynh\GameAdmin\obj\Debug\AdminGunny.dll
+H:\1.Gunny Project\Source ManhQuynh\GameAdmin\obj\Debug\AdminGunny.pdb
+C:\PhamNgocKhanhLam\Source\GameAdmin\bin\AdminGunny.dll.config
+C:\PhamNgocKhanhLam\Source\GameAdmin\bin\AdminGunny.dll
+C:\PhamNgocKhanhLam\Source\GameAdmin\bin\AdminGunny.pdb
+C:\PhamNgocKhanhLam\Source\GameAdmin\bin\Bussiness.dll
+C:\PhamNgocKhanhLam\Source\GameAdmin\bin\log4net.dll
+C:\PhamNgocKhanhLam\Source\GameAdmin\bin\SqlDataProvider.dll
+C:\PhamNgocKhanhLam\Source\GameAdmin\bin\Game.Base.dll
+C:\PhamNgocKhanhLam\Source\GameAdmin\bin\protobuf-net.Core.dll
+C:\PhamNgocKhanhLam\Source\GameAdmin\bin\zlib.net.dll
+C:\PhamNgocKhanhLam\Source\GameAdmin\bin\protobuf-net.dll
+C:\PhamNgocKhanhLam\Source\GameAdmin\bin\System.Memory.dll
+C:\PhamNgocKhanhLam\Source\GameAdmin\bin\System.Buffers.dll
+C:\PhamNgocKhanhLam\Source\GameAdmin\bin\System.Collections.Immutable.dll
+C:\PhamNgocKhanhLam\Source\GameAdmin\bin\System.Numerics.Vectors.dll
+C:\PhamNgocKhanhLam\Source\GameAdmin\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\PhamNgocKhanhLam\Source\GameAdmin\bin\Bussiness.pdb
+C:\PhamNgocKhanhLam\Source\GameAdmin\bin\SqlDataProvider.pdb
+C:\PhamNgocKhanhLam\Source\GameAdmin\bin\log4net.xml
+C:\PhamNgocKhanhLam\Source\GameAdmin\bin\Game.Base.pdb
+C:\PhamNgocKhanhLam\Source\GameAdmin\obj\Debug\AdminGunny.csproj.AssemblyReference.cache
+C:\PhamNgocKhanhLam\Source\GameAdmin\obj\Debug\AdminGunny.csproj.CoreCompileInputs.cache
+C:\PhamNgocKhanhLam\Source\GameAdmin\obj\Debug\AdminGunny.csproj.CopyComplete
+C:\PhamNgocKhanhLam\Source\GameAdmin\obj\Debug\AdminGunny.dll
+C:\PhamNgocKhanhLam\Source\GameAdmin\obj\Debug\AdminGunny.pdb
+C:\NEWGUN\Source\GameAdmin\bin\AdminGunny.dll.config
+C:\NEWGUN\Source\GameAdmin\bin\AdminGunny.dll
+C:\NEWGUN\Source\GameAdmin\bin\AdminGunny.pdb
+C:\NEWGUN\Source\GameAdmin\bin\Bussiness.dll
+C:\NEWGUN\Source\GameAdmin\bin\log4net.dll
+C:\NEWGUN\Source\GameAdmin\bin\SqlDataProvider.dll
+C:\NEWGUN\Source\GameAdmin\bin\Game.Base.dll
+C:\NEWGUN\Source\GameAdmin\bin\Newtonsoft.Json.dll
+C:\NEWGUN\Source\GameAdmin\bin\protobuf-net.Core.dll
+C:\NEWGUN\Source\GameAdmin\bin\zlib.net.dll
+C:\NEWGUN\Source\GameAdmin\bin\protobuf-net.dll
+C:\NEWGUN\Source\GameAdmin\bin\System.Memory.dll
+C:\NEWGUN\Source\GameAdmin\bin\System.Buffers.dll
+C:\NEWGUN\Source\GameAdmin\bin\System.Collections.Immutable.dll
+C:\NEWGUN\Source\GameAdmin\bin\System.Numerics.Vectors.dll
+C:\NEWGUN\Source\GameAdmin\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\NEWGUN\Source\GameAdmin\bin\Bussiness.pdb
+C:\NEWGUN\Source\GameAdmin\bin\SqlDataProvider.pdb
+C:\NEWGUN\Source\GameAdmin\bin\log4net.xml
+C:\NEWGUN\Source\GameAdmin\bin\Game.Base.pdb
+C:\NEWGUN\Source\GameAdmin\bin\Newtonsoft.Json.pdb
+C:\NEWGUN\Source\GameAdmin\bin\Newtonsoft.Json.xml
+C:\NEWGUN\Source\GameAdmin\obj\Debug\AdminGunny.csproj.AssemblyReference.cache
+C:\NEWGUN\Source\GameAdmin\obj\Debug\AdminGunny.csproj.CoreCompileInputs.cache
+C:\NEWGUN\Source\GameAdmin\obj\Debug\AdminGunny.csproj.CopyComplete
+C:\NEWGUN\Source\GameAdmin\obj\Debug\AdminGunny.dll
+C:\NEWGUN\Source\GameAdmin\obj\Debug\AdminGunny.pdb
+C:\NEWGUN\Source Server\GameAdmin\bin\AdminGunny.dll.config
+C:\NEWGUN\Source Server\GameAdmin\bin\AdminGunny.dll
+C:\NEWGUN\Source Server\GameAdmin\bin\AdminGunny.pdb
+C:\NEWGUN\Source Server\GameAdmin\bin\Bussiness.dll
+C:\NEWGUN\Source Server\GameAdmin\bin\log4net.dll
+C:\NEWGUN\Source Server\GameAdmin\bin\SqlDataProvider.dll
+C:\NEWGUN\Source Server\GameAdmin\bin\Game.Base.dll
+C:\NEWGUN\Source Server\GameAdmin\bin\protobuf-net.Core.dll
+C:\NEWGUN\Source Server\GameAdmin\bin\zlib.net.dll
+C:\NEWGUN\Source Server\GameAdmin\bin\protobuf-net.dll
+C:\NEWGUN\Source Server\GameAdmin\bin\System.Memory.dll
+C:\NEWGUN\Source Server\GameAdmin\bin\System.Buffers.dll
+C:\NEWGUN\Source Server\GameAdmin\bin\System.Collections.Immutable.dll
+C:\NEWGUN\Source Server\GameAdmin\bin\System.Numerics.Vectors.dll
+C:\NEWGUN\Source Server\GameAdmin\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\NEWGUN\Source Server\GameAdmin\bin\Bussiness.pdb
+C:\NEWGUN\Source Server\GameAdmin\bin\SqlDataProvider.pdb
+C:\NEWGUN\Source Server\GameAdmin\bin\log4net.xml
+C:\NEWGUN\Source Server\GameAdmin\bin\Game.Base.pdb
+C:\NEWGUN\Source Server\GameAdmin\obj\Debug\AdminGunny.csproj.AssemblyReference.cache
+C:\NEWGUN\Source Server\GameAdmin\obj\Debug\AdminGunny.csproj.CoreCompileInputs.cache
+C:\NEWGUN\Source Server\GameAdmin\obj\Debug\AdminGunny.csproj.CopyComplete
+C:\NEWGUN\Source Server\GameAdmin\obj\Debug\AdminGunny.dll
+C:\NEWGUN\Source Server\GameAdmin\obj\Debug\AdminGunny.pdb
+C:\NEWGUN36\NEWGUN\GameAdmin\bin\AdminGunny.dll.config
+C:\NEWGUN36\NEWGUN\GameAdmin\bin\AdminGunny.dll
+C:\NEWGUN36\NEWGUN\GameAdmin\bin\AdminGunny.pdb
+C:\NEWGUN36\NEWGUN\GameAdmin\bin\Bussiness.dll
+C:\NEWGUN36\NEWGUN\GameAdmin\bin\log4net.dll
+C:\NEWGUN36\NEWGUN\GameAdmin\bin\SqlDataProvider.dll
+C:\NEWGUN36\NEWGUN\GameAdmin\bin\Game.Base.dll
+C:\NEWGUN36\NEWGUN\GameAdmin\bin\protobuf-net.Core.dll
+C:\NEWGUN36\NEWGUN\GameAdmin\bin\zlib.net.dll
+C:\NEWGUN36\NEWGUN\GameAdmin\bin\protobuf-net.dll
+C:\NEWGUN36\NEWGUN\GameAdmin\bin\System.Memory.dll
+C:\NEWGUN36\NEWGUN\GameAdmin\bin\System.Buffers.dll
+C:\NEWGUN36\NEWGUN\GameAdmin\bin\System.Collections.Immutable.dll
+C:\NEWGUN36\NEWGUN\GameAdmin\bin\System.Numerics.Vectors.dll
+C:\NEWGUN36\NEWGUN\GameAdmin\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\NEWGUN36\NEWGUN\GameAdmin\bin\Bussiness.pdb
+C:\NEWGUN36\NEWGUN\GameAdmin\bin\SqlDataProvider.pdb
+C:\NEWGUN36\NEWGUN\GameAdmin\bin\log4net.xml
+C:\NEWGUN36\NEWGUN\GameAdmin\bin\Game.Base.pdb
+C:\NEWGUN36\NEWGUN\GameAdmin\obj\Debug\AdminGunny.csproj.AssemblyReference.cache
+C:\NEWGUN36\NEWGUN\GameAdmin\obj\Debug\AdminGunny.csproj.CoreCompileInputs.cache
+C:\NEWGUN36\NEWGUN\GameAdmin\obj\Debug\AdminGunny.csproj.CopyComplete
+C:\NEWGUN36\NEWGUN\GameAdmin\obj\Debug\AdminGunny.dll
+C:\NEWGUN36\NEWGUN\GameAdmin\obj\Debug\AdminGunny.pdb

@@ -1,0 +1,24 @@
+2022-07-16 11:07:53,591 - [MAIN] - ERROR - Game.Base.BaseConnector - Connect 20.24.28.243:9202 failed!
+2022-07-16 11:07:53,591 - [19] - ERROR - Game.Server.GameServer - Reconnecting after 5 minutes
+2022-07-16 11:10:50,944 - [16] - ERROR - Game.Server.GameServer - RsaCryptor
+System.Security.Cryptography.CryptographicException: Bad Data.
+
+   at System.Security.Cryptography.CryptographicException.ThrowCryptographicException(Int32 hr)
+   at System.Security.Cryptography.RSACryptoServiceProvider.DecryptKey(SafeKeyHandle pKeyContext, Byte[] pbEncryptedKey, Int32 cbEncryptedKey, Boolean fOAEP, ObjectHandleOnStack ohRetDecryptedKey)
+   at System.Security.Cryptography.RSACryptoServiceProvider.Decrypt(Byte[] rgb, Boolean fOAEP)
+   at Game.Server.Packets.Client.UserLoginHandler.HandlePacket(GameClient client, GSPacketIn packet) in C:\NEWGUN\Source Server\Game.Server\Packets\Client\UserLoginHandler.cs:line 28
+2022-07-16 11:12:53,609 - [19] - ERROR - Game.Server.GameServer - Reconnecting after :14 try
+2022-07-16 11:13:10,648 - [30] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - JCar2 -> to State 1
+2022-07-16 11:13:12,695 - [48] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - clonee -> to State 1
+2022-07-16 11:13:13,882 - [48] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - JCar1 -> to State 1
+2022-07-16 11:13:17,288 - [48] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - clonee -> to State 0
+2022-07-16 11:13:17,288 - [49] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - JCar2 -> to State 0
+2022-07-16 11:13:17,335 - [48] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - JCar -> to State 2
+2022-07-16 11:13:17,335 - [43] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - JCar1 -> to State 0
+2022-07-16 11:15:16,577 - [58] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - clonee -> to State 1
+2022-07-16 11:15:18,405 - [59] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - JCar2 -> to State 1
+2022-07-16 11:15:19,296 - [48] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - JCar1 -> to State 1
+2022-07-16 11:15:21,922 - [43] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - JCar -> to State 2
+2022-07-16 11:15:21,922 - [43] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - JCar2 -> to State 0
+2022-07-16 11:15:21,922 - [43] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - clonee -> to State 0
+2022-07-16 11:15:21,984 - [62] - ERROR - Game.Server.GameRoom.Handle.GamePlayerStateChange - JCar1 -> to State 0
